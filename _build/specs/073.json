@@ -1,0 +1,90 @@
+{
+ "number": 73,
+ "title": "73. Kanali qaytalama terlama kasalligini (KQT) uchun laboratoriya tekshiruvi uchun ko'rsatmalar",
+ "sections": [
+  {
+   "heading": "Kirish",
+   "content": [
+    "Laboratoriya tekshiruvi KQT tashxisining hal qiluvchi bosqichi. Ko'rsatmalar — qachon, kimda, qanday namuna va qanday usulda tekshirish kerakligi haqidagi qoidalar. O'zbekistonning milliy ko'rsatmalari (buyruq, yo'riqnoma, SOP) mazkur seansda tekshirilmadi [tasdiqlanmagan]; quyida ilmiy adabiyotda bayon qilingan klinik va laboratoriya asoslariga tayanib, umumiy ko'rsatmalar tizimlashtiriladi. Bu ko'rsatmalar milliy hujjat o'rnini bosmaydi."
+   ]
+  },
+  {
+   "heading": "Kimlarni tekshirish kerak",
+   "content": [
+    "Quyidagi shaxslarda KQT ga tekshirish ko'rsatiladi: endemik hududda (Markaziy Osiyo kabi) yashagan yoki bo'lgan va yuqori isitma, titroq, bosh og'rig'i, mushak og'rig'i bilan kelgan bemorlar; davriy (qaytalanuvchi) isitmasi bor bemorlar; eski uy, g'or, qo'ra yoki kemiruvchilar bor joyda tunaganlar; bezgak surtmasi manfiy bo'lgan, isitmasi esa davom etayotganlar; bir joyda tunagan bir necha kishi orasida isitma bo'lsa, ularning barchasi. Adabiyotda KQT ko'pincha bir uyda tunagan odamlar orasida guruh holatlari sifatida tavsiflanadi [1]. Shuning uchun birgalikda tunaganlar ham tekshiriladi."
+   ]
+  },
+  {
+   "heading": "Tekshirish vaqti",
+   "content": [
+    "Eng muhim ko'rsatma: namunani isitma xuruji davrida olish. Isitma davrida spirohetemiya yuqori, o'rtacha beshta mikroorganizm immersion ko'rish maydonida ko'rinadi, isitmasiz davrda esa spirohetalar mikroskopik jihatdan aniqlanmaydi [1]. Demak, bemor isitmalagan zahoti, imkon qadar antibiotik boshlanishidan oldin qon olinishi kerak. Agar birinchi namuna manfiy bo'lsa va klinik shubha saqlansa, isitma qaytganda tekshiruv takrorlanadi. Adabiyotda isitmasiz bemorlarda spirohetalar faqat qorong'i maydon mikroskopiyasida va juda kam topilgani keltirilgan [1]."
+   ]
+  },
+  {
+   "heading": "Namuna turi va olish",
+   "content": [
+    "Asosiy namuna — periferik (barmoq yoki vena) qoni. Qon barmoq uchidan yoki venadan olinadi, qalin tomchi va yupqa surtma tayyorlanadi. Bezgak diagnostikasi bilan bir xil: toza buyum oynasi, steril lanset, spirt, qo'lqop. Jahon sog'liqni saqlash tashkilotining bezgak mikroskopiyasi standart protsedurasida (MM-SOP-05A) bu amallar batafsil bayon qilingan: qalin tomchi uchun taxminan 1 sm doira, yupqa surtma uchun spreder 45 graduslik burchak ostida [2]. KQT uchun ham shu texnika qo'llanishi mumkin; bu qo'llanish moslashtirilgan va KQT uchun alohida manbadan tekshirilmagan [tasdiqlanmagan]. Venoz qon antikoagulyant (EDTA) solingan naychaga olinishi mumkin, lekin surtma imkon qadar tez tayyorlanadi. Serologik tahlil uchun qon zardobi, molekulyar tahlil uchun to'liq qon olinadi."
+   ]
+  },
+  {
+   "heading": "Preparat tayyorlash va bo'yash",
+   "content": [
+    "Qon surtmalari havoda quritiladi; yupqa surtma metanol bilan fiksatsiya qilinadi; Giemza bilan bo'yaladi (pH 7,2 buferli suvda) [3]. Bezgak uchun tavsiya etilgan bo'yash tartibi: tezkor usulda 10 foizli eritma 8–10 daqiqa, sekin usulda 3 foizli eritma 45–60 daqiqa [3]. Spirohetalar eritrotsitlar orasida cho'ziq, spiral shaklli tuzilma sifatida ko'rinadi. Qorong'i maydon uchun yangi (ho'l) tomchi preparat tayyorlanadi, qoplagich oyna bilan yopiladi va darhol ko'riladi."
+   ]
+  },
+  {
+   "heading": "Mikroskopiya qoidalari",
+   "content": [
+    "Preparat 100× immersion obyektiv bilan ko'riladi. Bezgak SOP ida parazit yo'q deyishdan oldin kamida 100 maydon ko'rish talab qilinadi [4]; KQT uchun ham shunga o'xshash tizimli ko'rish qo'llanadi, lekin aniq maydon soni KQT uchun tasdiqlanmadi [tasdiqlanmagan]. Isitma davrida spirohetalar ko'p bo'lgani uchun ular odatda tezda topiladi. Topilgan spirohetalar soni (taxminiy) natijada ko'rsatiladi. Preparatda bezgak parazitlari ham izlanadi, chunki aralash infeksiya yoki alternativ tashxis bo'lishi mumkin."
+   ]
+  },
+  {
+   "heading": "Qo'shimcha tekshiruvlar",
+   "content": [
+    "Qo'shimcha laboratoriya tekshiruvlari: umumiy qon tahlili (leykotsitlar, trombotsitlar, gemoglobin); biokimyo (jigar fermentlari, bilirubin, kreatinin, elektrolitlar); serologiya (EIA, Western blot); PZR. Adabiyotdagi og'ir holatda pansitopeniya, gipponatremiya va jigar faoliyati buzilishlari tavsiflangan [1]. Serologiya Borrelia turlari orasida o'zaro reaksiyaga kirishishi mumkin. Bu ma'lumotlar tashxisni to'ldiradi."
+   ]
+  },
+  {
+   "heading": "Natijani yozish va xabar berish",
+   "content": [
+    "Natijada quyidagilar ko'rsatiladi: bemor ma'lumotlari, namuna olingan sana va vaqt, isitma holati (xuruj davrida yoki yo'q), usul, spirohetalar topildi/topilmadi, taxminiy miqdor, tekshirgan laborant. Ijobiy natija zudlik bilan shifokorga va sanitariya-epidemiologiya xizmatiga xabar qilinadi, chunki bu favqulodda epidemiologik tekshiruvni boshlash uchun asos. Manfiy natija bilan klinik shubha saqlansa, takroriy tekshiruv tavsiya etiladi. Xabar berish muddatlari milliy hujjatlarda belgilanadi [tasdiqlanmagan]."
+   ]
+  },
+  {
+   "heading": "Xavfsizlik",
+   "content": [
+    "Qon bilan ishlaganda qo'lqop, xalat kiyiladi, har bir bemor uchun yangi lanset ishlatiladi, o'tkir buyumlar maxsus idishga tashlanadi, ifloslangan materiallar zararsizlantiriladi [2]. Qaytalama terlama qon orqali yuqishi mumkinligi haqida adabiyotda kam ma'lumot bor, lekin tajriba laboratoriyalarida spirohetalar bilan ishlashda ehtiyotkorlik talab etiladi. Bu xavfsizlik mulohazasi umumiy qoida bo'lib, seansda alohida manbadan tekshirilmagan [tasdiqlanmagan]."
+   ]
+  },
+  {
+   "heading": "Takrorlash uchun savol-javoblar",
+   "content": [
+    "Savol: namuna qachon olinadi? Javob: isitma xuruji davrida, antibiotikdan oldin [1]. Savol: asosiy namuna? Javob: periferik qon, qalin tomchi va yupqa surtma. Savol: bo'yash? Javob: Giemza, pH 7,2 [3]. Savol: manfiy natija bilan shubha saqlansa? Javob: isitma qaytganda takrorlanadi [1]. Savol: ijobiy natija bo'lsa? Javob: shifokor va epidemiologga zudlik bilan xabar qilinadi."
+   ]
+  },
+  {
+   "heading": "Namunaviy ko'rsatma tuzilishi",
+   "content": [
+    "Laboratoriya ichki yo'riqnomasi quyidagi bo'limlardan iborat bo'lishi mumkin: maqsad va qo'llanish doirasi; ko'rsatmalar (kimda tekshiriladi); namuna olish vaqti va usuli; preparat tayyorlash va bo'yash; mikroskopiya qoidalari; natijani yozish va talqin qilish; ijobiy natija bo'yicha harakatlar; xavfsizlik; hujjatlashtirish. Bunday tuzilma yo'riqnomani tushunarli va foydalanishga qulay qiladi. Hujjatning aniq tarkibi milliy talablarga mos kelishi kerak [tasdiqlanmagan]."
+   ]
+  },
+  {
+   "heading": "Laborant uchun eslatma",
+   "content": [
+    "Isitma davrida olingan namunani darhol tayyorlash, preparatni toza oynada qilish, bo'yoq va suv sifatini tekshirish, bezgak parazitlari va spirohetalarni birga izlash va natijani shifokorga tezda yetkazish eng muhim qoidalar. Manfiy natija bilan shubha saqlansa, takroriy tekshiruvni tavsiya qilish ham laborant vazifasi."
+   ]
+  },
+  {
+   "heading": "Xulosa",
+   "content": [
+    "KQT uchun laboratoriya tekshiruvi endemik hududdan kelgan isitmalovchi, davriy isitmali va birgalikda tunagan shaxslarda ko'rsatiladi. Namuna isitma davrida olinadi, qon surtmalari Giemza bilan bo'yalib, spirohetalar izlanadi; qo'shimcha usullar — serologiya va PZR. O'zbekistonning milliy ko'rsatmalari tasdiqlanmadi [tasdiqlanmagan] [1, 2, 3, 4]."
+   ]
+  }
+ ],
+ "references": [
+  "Tick-Borne Relapsing Fever. PubMed Central, PMC3725823. URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC3725823/",
+  "World Health Organization. Malaria Microscopy Standard Operating Procedure MM-SOP-05A: Collection of finger-prick blood and preparation of thick and thin blood films. URL: https://www.who.int/docs/default-source/wpro---documents/toolkit/malaria-sop/gmp-sop-05a.pdf",
+  "World Health Organization. Malaria Microscopy Standard Operating Procedure MM-SOP-07A: Giemsa staining of malaria blood films. URL: https://www.who.int/docs/default-source/wpro---documents/toolkit/malaria-sop/gmp-sop-07a.pdf",
+  "World Health Organization. Malaria Microscopy Standard Operating Procedure MM-SOP-08: Microscopy examination of thick and thin blood films for identification of malaria parasites. URL: https://who.int/docs/default-source/wpro---documents/toolkit/malaria-sop/gmp-sop-08-revised.pdf"
+ ]
+}
