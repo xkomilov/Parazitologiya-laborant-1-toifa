@@ -1,0 +1,100 @@
+{
+ "number": 131,
+ "title": "131. Lyamblioz bilan zararlanish yo'llari va omillari",
+ "sections": [
+  {
+   "heading": "Kirish",
+   "content": [
+    "Lyamblioz bilan zararlanish yo'llari va omillarini bilish kasallikning oldini olishning asosi hisoblanadi. Hooshyar va hamkasblarining sharhida lyamblioz najas-og'iz yo'li bilan, ya'ni infeksion kistalarni bevosita yoki bilvosita yutish orqali yuqishi aytilgan [1]. Bu oddiy ko'rinadigan jumla ortida ko'plab real hayotiy vaziyatlar yotadi: qo'lni yuvmaslik, ifloslangan suv, ifloslangan oziq-ovqat, bolalar jamoalari. Esseda zararlanish yo'llari va xavf omillari mantiqiy tartibda yoritiladi, laborantning vazifasi esa alohida ko'rsatiladi."
+   ]
+  },
+  {
+   "heading": "Qo'zg'atuvchining yuqumli shakli",
+   "content": [
+    "Zararlanish yo'lini tushunish uchun qaysi shakl yuqumli ekanini bilish zarur. Sharhga ko'ra, lyamblya ikki shaklga ega — trofozoit va kista, parazit esa infeksion kistalarni yutish orqali yuqadi [1]. Trofozoit ichak tashqarisida beqaror, shuning uchun yuqish asosan kistalar orqali amalga oshadi. Kista najas bilan tashqi muhitga tushadi, u yerda yuqumli holda qoladi va yangi xo'jayin og'ziga tushsa, kasallik boshlanadi. Bu mulohazaning kista chidamliligi bo'yicha aniq muddatlari bu yerda tekshirilmagan [tasdiqlanmagan]."
+   ]
+  },
+  {
+   "heading": "Bevosita yo'l",
+   "content": [
+    "Bevosita yo'l najas bilan ifloslangan qo'l orqali kistalarning to'g'ridan-to'g'ri og'izga tushishini bildiradi. Manbada «bevosita yoki bilvosita kistalarni yutish» deb ko'rsatilgan [1]. Bu yo'l ayniqsa bolalar orasida muhim: ular qo'lini og'ziga tez-tez olib boradi, hojatxonadan keyin qo'lini yuvishni unutadi, o'yinchoqlarni birga ishlatadi. Shuning uchun bola muassasalarida, oilada va yopiq jamoalarda kasallik tez tarqaladi. Bu fikr umumiy epidemiologik mantiqqa tayanadi va mazkur mavzu uchun alohida manbadan tekshirilmagan [tasdiqlanmagan]."
+   ]
+  },
+  {
+   "heading": "Bilvosita yo'l: suv va oziq-ovqat",
+   "content": [
+    "Bilvosita yo'l kistalar bilan ifloslangan suv yoki oziq-ovqat orqali amalga oshadi. Ochiq suv manbalari, tozalanmagan suv, yuvilmagan sabzavot va ko'katlar xavfli hisoblanadi. Bu fikr umumiy bilimga asoslanadi va mazkur manbada batafsil keltirilmagan [tasdiqlanmagan]. Shirley va hamkasblarining amyobiaz bo'yicha sharhida ham yuqish fekal ifloslangan qo'l, oziq-ovqat yoki suv orqali bo'lishi yozilgan [2]; ikki najas-og'iz yo'li bilan yuqadigan protozoy uchun yo'llar o'xshashligi tabiiy."
+   ]
+  },
+  {
+   "heading": "Geografik va ijtimoiy omillar",
+   "content": [
+    "Sharhga ko'ra, lyamblioz butun dunyoda uchraydi, ammo tarqalish rivojlanayotgan mamlakatlarda yuqoriroq; yiliga 200 milliondan ortiq holat aniqlanadi [1]. Belgisiz bolalarda infeksiya ulushi rivojlanayotgan mamlakatlarda 8–30 foiz, sanoati rivojlangan hududlarda 1–8 foiz [1]. Bu farq ko'p jihatdan sanitariya, toza suv bilan ta'minlanish va gigiyena madaniyati bilan bog'liq. O'zbekiston uchun aniq hududlar bo'yicha taqqoslash bu yerda tekshirilmagan [tasdiqlanmagan]."
+   ]
+  },
+  {
+   "heading": "Zichlik va jamoa omillari",
+   "content": [
+    "Bola bog'chalari, maktab-internatlar, uyushgan jamoalar kabi joylarda odamlar yaqin aloqada bo'ladi, shuning uchun bitta zararlangan odamdan boshqalarga o'tish ehtimoli yuqori. Bunday joylarda belgisiz tashuvchilar tarqalishda muhim rol o'ynashi mumkin, chunki sharhda belgisiz infeksiya ulushi sezilarli ekani keltirilgan [1]. Bu fikr jamoa tadbirlari uchun muhim, lekin mazkur masalada alohida epidemiologik tadqiqot ko'rib chiqilmagan [tasdiqlanmagan]."
+   ]
+  },
+  {
+   "heading": "Uy hayvonlari va boshqa manbalar",
+   "content": [
+    "Lyamblya turlarining ayrimi hayvonlarda ham uchraydi, degan fikr bor, ammo odamga yuqish ahamiyati bu essayda alohida manbadan tekshirilmagan [tasdiqlanmagan]. Shu sababli bu masalada qat'iy xulosa berilmaydi. Asosiy tasdiqlangan yo'l — kistalarni yutish [1]."
+   ]
+  },
+  {
+   "heading": "Laborantning roli",
+   "content": [
+    "Laborant zararlanish yo'llarini bilib, anamnezda qaysi xavf omillari bo'lganini so'rashi mumkin: suvning manbai, bola jamoasiga qatnash, yaqin muddatdagi safar. Shuningdek, laboratoriya o'zi ham xavf manbai bo'lishi mumkin: najas namunalari bilan ishlaganda qo'lqop kiyish, namunani ochiq qoldirmaslik, ish joyini dezinfeksiya qilish kerak. Bu umumiy xavfsizlik qoidasi, alohida manbadan tekshirilmagan [tasdiqlanmagan]."
+   ]
+  },
+  {
+   "heading": "Misol",
+   "content": [
+    "Misol uchun, yozgi lagerda 12 bola ketma-ket suvsimon diareya bilan kasallanadi. Lagerda ichimlik suvi quvur o'rniga ochiq quduqdan olingan. Najas tekshiruvida bir nechta bolada lyamblya kistalari topiladi. Bu holatda bilvosita yo'l (suv) va bevosita yo'l (qo'l) birgalikda ishlagan bo'lishi mumkin. Misol zararlanish omillarini bir-biridan ajratib o'ylash zarurligini ko'rsatadi."
+   ]
+  },
+  {
+   "heading": "Takrorlash uchun savol-javoblar",
+   "content": [
+    "Savol: yuqumli shakl? Javob: kista [1]. Savol: yuqish yo'li? Javob: najas-og'iz yo'li, bevosita va bilvosita [1]. Savol: qayerda ko'p uchraydi? Javob: rivojlanayotgan mamlakatlarda [1]. Savol: qaysi guruh xavf ostida? Javob: bolalar va jamoalarda yashovchilar [1]. Savol: qo'shimcha yo'l? Javob: ifloslangan suv va oziq-ovqat [2]."
+   ]
+  },
+  {
+   "heading": "Laborant uchun amaliy xulosa",
+   "content": [
+    "Laborant bemorning suv manbasi, jamoa va safar anamnezini yozib borishi, jamoaviy holatlarda bir xil manbadan zararlanganlarni aniqlashga ko'maklashishi va najas bilan ishlashda shaxsiy himoya qoidalariga rioya qilishi lozim."
+   ]
+  },
+  {
+   "heading": "Zararlanishning oldini olish uchun yo'llarni uzish",
+   "content": [
+    "Zararlanish yo'llarini bilish ularni uzishning asosiy tamoyilini beradi. Bevosita yo'lni qo'lni sovun bilan yuvish, ayniqsa hojatxonadan keyin va ovqatdan oldin, to'xtatadi. Bilvosita yo'lni toza suv bilan ta'minlash, suvni qaynatish yoki filtrlash va sabzavotlarni yuvish to'xtatadi. Shirley sharhida amyobiaz profilaktikasi sanitariya va toza suvga kirish imkoniyatiga qaratilgani aytilgan, samarali vaksina yo'q [2]. Lyamblioz uchun ham xuddi shu sanitariya yondashuvi qo'llaniladi, ammo bu xulosa taqqoslash asosida chiqarilgan va lyambliyga xos tavsiyalar bu yerda alohida manbadan tekshirilmagan [tasdiqlanmagan]. Shuning uchun amaliy tavsiyalar berishda rasmiy yo'riqnomalarga murojaat qilish kerak."
+   ]
+  },
+  {
+   "heading": "Xavf guruhlari",
+   "content": [
+    "Eng katta xavf ostida bolalar, jamoalarda yashovchilar, sanitariya sharoiti yomon hududlarda yashovchilar va safarga chiqqanlar turadi. Hooshyar sharhida rivojlanayotgan mamlakatlarda tarqalish yuqori ekani yozilgan [1]. Xavf guruhlarini bilish laborantga tekshiruvlarni rejalashtirishda yordam beradi, chunki bunday guruhlarda bir marta o'tkazilgan tekshiruv ham sezilarli natija beradi."
+   ]
+  },
+  {
+   "heading": "Mavsumiylik va sharoit omillari",
+   "content": [
+    "Najas-og'iz yo'li bilan yuqadigan infeksiyalar iliq mavsumda, suv bilan aloqa ko'p bo'lganda va sayohat ko'paygan paytda ko'proq qayd etilishi mumkin. Bu fikr umumiy epidemiologik mantiqqa asoslanadi va lyamblioz uchun O'zbekiston bo'yicha mavsumiy ma'lumotlar bu yerda tekshirilmagan [tasdiqlanmagan]. Shunga qaramay, laborant mavsum bo'yicha tushgan namunalar sonini kuzatib, kasallanish o'zgarishlarini hamkasblariga aytib borishi foydali."
+   ]
+  },
+  {
+   "heading": "Xulosa",
+   "content": [
+    "Lyamblioz kistalarni yutish orqali najas-og'iz yo'li bilan yuqadi; bevosita (qo'l) va bilvosita (suv, oziq-ovqat) yo'llar, past sanitariya va bolalar jamoalari asosiy omillardir [1, 2]."
+   ]
+  }
+ ],
+ "references": [
+  "Hooshyar H., Rostamkhani P., Arbabi M., Delavari M. Giardia lamblia infection: review of current diagnostic strategies. Gastroenterol Hepatol Bed Bench. PubMed Central, PMC6441489. URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC6441489/",
+  "Shirley D.-A. T., Farr L., Watanabe K., Moonah S. A Review of the Global Burden, New Diagnostics, and Current Therapeutics for Amebiasis. Open Forum Infect Dis. PubMed Central, PMC6055529. URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC6055529/"
+ ]
+}

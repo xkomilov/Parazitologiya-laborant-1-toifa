@@ -1,0 +1,106 @@
+{
+ "number": 137,
+ "title": "137. Ichak protozoylari tashhisi",
+ "sections": [
+  {
+   "heading": "Kirish",
+   "content": [
+    "Ichak protozoylari tashxisi laboratoriya ishining muhim yo'nalishi bo'lib, to'g'ri natija uchun usul tanlash, namuna olish va talqin qilishda ehtiyotkorlik talab etiladi. Hooshyar va hamkasblari lyamblioz tashxisining asosi najas namunasida mikroskopik kista yoki trofozoitni aniqlash ekanini, immunologik va molekulyar usullar ham mavjudligini yozgan [1]. Shirley va hamkasblari esa amyobiazda PCR asosidagi tashxis tobora mavjud bo'layotganini, ammo yetarlicha ishlatilmayotganini ta'kidlagan [2]. Esseda ikki asosiy patogen — lyamblya va dizenteriya amyobasi misolida tashxis usullari, ularning kuchli va zaif tomonlari hamda laborant uchun amaliy tavsiyalar yoritiladi."
+   ]
+  },
+  {
+   "heading": "Tashxisning umumiy yondashuvi",
+   "content": [
+    "Tashxis uch bosqichdan iborat: to'g'ri namuna olish, tegishli usulni qo'llash va natijani talqin qilish. Namuna tanlovi kasallikning klinik shakliga bog'liq. Najas eng ko'p ishlatiladigan namuna, jigar xo'ppozi kabi ichakdan tashqari holatlarda esa qon zardobi yoki boshqa namunalar kerak bo'lishi mumkin. Bu yerda mikroskopiya an'anaviy usul sifatida saqlanib qolmoqda, immunologik va molekulyar usullar uni to'ldiradi [1]."
+   ]
+  },
+  {
+   "heading": "Namuna olish va saqlash",
+   "content": [
+    "Najas namunasi toza, quruq, qopqoqli idishga, siydik yoki suv aralashmasdan olinadi. Suyuq najasda trofozoitlar tez parchalanishi mumkin, shuning uchun namuna iloji boricha tezroq tekshiriladi yoki fiksatsiya qilinadi. Hooshyar sharhida fiziologik eritma (0,85 foizli NaCl) yoki natriy asetat–sirka kislotasi–formalin (SAF) bilan fiksatsiya qilingan surtmalar trofozoitlarni ko'rish uchun ishlatilishi aytilgan [1]. Namuna olishning boshqa tafsilotlari (idish hajmi, saqlash harorati va muddati) mahalliy yo'riqnomada belgilanadi va bu yerda tekshirilmagan [tasdiqlanmagan]."
+   ]
+  },
+  {
+   "heading": "To'g'ridan-to'g'ri mikroskopiya",
+   "content": [
+    "To'g'ridan-to'g'ri nam surtma eng oddiy va tez usul. U fiziologik eritmada tayyorlanadi va trofozoitlarning harakatini ko'rishga imkon beradi. Biroq sezgirligi past: bitta tadqiqotda to'g'ridan-to'g'ri nam surtma musbat namunalarning faqat 34,74 foizini aniqlagan, formalin–efir konsentratsiyasi esa 65,26 foizini [1]. Demak, faqat nam surtma bilan cheklanish ko'plab zararlangan odamlarni o'tkazib yuborishga olib keladi."
+   ]
+  },
+  {
+   "heading": "Konsentratsiya usullari",
+   "content": [
+    "Konsentratsiya usullari kistalar sonini oshirib, topish ehtimolini yaxshilaydi. Formalin–efir cho'ktirish usuli yog' va boshqa ifloslikni ajratadi va lyamblya kistalarini kamroq buzadi; sharhda u sink sulfatli flotatsiyaga qaraganda kistalar deformatsiyasi kamroq bo'lishi bilan ajralib turishi yozilgan [1]. Sharh xulosasiga ko'ra, an'anaviy mikroskopiya konsentratsiya usuli bilan birga oddiy laboratoriyalarda saqlanib qolishi kerak, chunki iqtisodiy va yuqori sezgir [1]. Konsentratsiya jarayonining qadamlari (tezlik, vaqt) mahalliy yo'riqnomadan olinadi [tasdiqlanmagan]."
+   ]
+  },
+  {
+   "heading": "Namunalar soni va malaka",
+   "content": [
+    "Sezgirlik tekshirilgan namunalar soniga va mutaxassisning tayyorgarligiga bog'liq [1]. Kistalar najas bilan notekis chiqadi, shuning uchun bitta manfiy namuna kasallikni istisno qilmaydi. Gumon kuchli bo'lsa, bir necha kunda olingan bir necha namuna tekshiriladi. Bu amaliyot aniq raqamlari bilan (masalan, uch namuna) umumiy tajribaga asoslanadi [tasdiqlanmagan]. Malaka esa muntazam o'qitish va sifat nazorati bilan oshiriladi."
+   ]
+  },
+  {
+   "heading": "Ichak tashqarisi va maxsus usullar",
+   "content": [
+    "Oddiy usullar tashxisni tasdiqlay olmasa, ichak suyuqligi yoki Entero-Test (ingichka ichakka yuboriladigan ip bilan namuna olish) qo'llanishi mumkin [1]. Bu usul shifokor yo'naltirishi bilan qo'llanadi. Laborant namunani to'g'ri qabul qilib, trofozoitlarni qidiradi. Usulning aniq qo'llanilishi shifokor vakolatiga kiradi."
+   ]
+  },
+  {
+   "heading": "Immunologik va molekulyar usullar",
+   "content": [
+    "Immunologik usullar antigenni aniqlaydi, molekulyar usullar (PCR) esa parazit DNKsini topadi. Hooshyar sharhida ular an'anaviy usulni to'ldiruvchi sifatida tavsiya etilgan [1]. Shirley sharhida amyobiaz uchun PCR asosidagi diagnostika tobora mavjud bo'layotgani va E. histolytica ni zararsiz turlardan ajratishda muhimligi aytilgan [2]. Bu usullar morfologik jihatdan bir xil bo'lgan turlarni farqlash imkonini beradi. Ammo ular qimmat bo'lishi va barcha laboratoriyalarda mavjud bo'lmasligi mumkin; O'zbekistondagi mavjudligi bu yerda tekshirilmagan [tasdiqlanmagan]."
+   ]
+  },
+  {
+   "heading": "Amyobani zararsiz turlardan farqlash",
+   "content": [
+    "Morfologik jihatdan E. histolytica dan farq qilmaydigan uchta tur bor: E. moshkovskii, E. dispar va E. bangladeshi; ulardan E. dispar va E. bangladeshi patogen emas [2]. Shu sababli mikroskopiyada topilgan amyoba kistasi tur darajasida tasdiqlanmaydi. Hisobotda «E. histolytica/dispar kompleksi» ifodasi ishlatilishi mumkin, aniq tur uchun antigen yoki PCR zarur [2]. Bu ehtiyotkorlik ortiqcha davolashning oldini oladi."
+   ]
+  },
+  {
+   "heading": "Tashxis xatolari",
+   "content": [
+    "Xatolar manbalari: yetarli bo'lmagan namuna, kechikkan tekshiruv, noto'g'ri fiksatsiya, bitta namuna bilan cheklanish va tur aniqligisiz xulosa. Bundan tashqari, boshqa hujayralarni (masalan, leykotsitlar yoki o'simlik qoldiqlari) protozoy sifatida adashtirish ham mumkin; bu umumiy mikroskopik tajribaga asoslanadi [tasdiqlanmagan]. Xatolarni kamaytirish uchun sifat nazorati, takroriy o'qish va tajribali mutaxassis fikri kerak."
+   ]
+  },
+  {
+   "heading": "Natijani rasmiylashtirish",
+   "content": [
+    "Hisobotda namuna turi, tekshiruv usuli, topilgan shakl (kista yoki trofozoit), tur nomi va miqdori (masalan, ko'rish maydonida ko'p, kam) ko'rsatiladi. Agar tur aniqlanmagan bo'lsa, buni ochiq yozish kerak. Natija shifokorga o'z vaqtida beriladi."
+   ]
+  },
+  {
+   "heading": "Misol",
+   "content": [
+    "Misol uchun, bola surunkali diareya bilan keladi. Birinchi namuna to'g'ridan-to'g'ri surtmada manfiy. Laborant konsentratsiya usulini qo'llaydi va lyamblya kistalarini topadi. Boshqa bemorda amyoba kistalari topiladi, hisobotda «E. histolytica/dispar kompleksi» yoziladi va PCR tavsiya etiladi. Misol usul tanlovi natijani o'zgartirishini ko'rsatadi."
+   ]
+  },
+  {
+   "heading": "Takrorlash uchun savol-javoblar",
+   "content": [
+    "Savol: lyamblioz tashxisida asosiy usul? Javob: najas mikroskopiyasi konsentratsiya usuli bilan [1]. Savol: nam surtma sezgirligi? Javob: bitta tadqiqotda 34,74 foiz, konsentratsiyada 65,26 foiz [1]. Savol: Entero-Test nima? Javob: ingichka ichakka yuboriladigan ipli kapsula [1]. Savol: amyobani qanday ajratiladi? Javob: antigen yoki PCR bilan [2]."
+   ]
+  },
+  {
+   "heading": "Laborant uchun amaliy xulosa",
+   "content": [
+    "Laborant namunani tez qabul qilishi, konsentratsiya usulini qo'llashi, kerak bo'lsa takroriy namuna so'rashi, amyobani «kompleks» deb yozishi va aniq tur zarurligini qayd etishi lozim."
+   ]
+  },
+  {
+   "heading": "Sifat nazorati",
+   "content": [
+    "Tashxis sifati laboratoriyaning ichki nazoratiga bog'liq: reaktivlar muddati, mikroskop holati, surtmalarni tayyorlash tartibi va natijani ikkinchi mutaxassis tekshiruvi. Musbat va shubhali preparatlarni saqlab qo'yish o'qitish uchun foydali. Aniq me'yoriy talablar mahalliy yo'riqnomada keltirilgan va bu yerda tekshirilmagan [tasdiqlanmagan]."
+   ]
+  },
+  {
+   "heading": "Xulosa",
+   "content": [
+    "Ichak protozoylari tashxisi najas mikroskopiyasiga asoslanadi, konsentratsiya usuli sezgirlikni oshiradi, immunologik va molekulyar usullar esa tur aniqlash uchun to'ldiruvchi hisoblanadi [1, 2]."
+   ]
+  }
+ ],
+ "references": [
+  "Hooshyar H., Rostamkhani P., Arbabi M., Delavari M. Giardia lamblia infection: review of current diagnostic strategies. Gastroenterol Hepatol Bed Bench. PubMed Central, PMC6441489. URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC6441489/",
+  "Shirley D.-A. T., Farr L., Watanabe K., Moonah S. A Review of the Global Burden, New Diagnostics, and Current Therapeutics for Amebiasis. Open Forum Infect Dis. PubMed Central, PMC6055529. URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC6055529/"
+ ]
+}
