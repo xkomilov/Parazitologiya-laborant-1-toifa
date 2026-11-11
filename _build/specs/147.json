@@ -1,0 +1,105 @@
+{
+ "number": 147,
+ "title": "147. Parazitizm nima?",
+ "sections": [
+  {
+   "heading": "Kirish",
+   "content": [
+    "Parazitizm — turli turdagi ikki organizm orasidagi yaqin munosabat shakli bo'lib, bunda bir organizm (parazit) ikkinchisining (xo'jayinning) hisobiga yashaydi va unga zarar yetkazadi. Britannica ta'rifiga ko'ra, parazitizm turli turdagi o'simlik yoki hayvonlar orasidagi munosabat, unda bir tur ikkinchisining zarariga foyda ko'radi; parazit foyda oladi, xo'jayin zarar ko'radi, lekin har doim ham o'lmaydi [1]. Parazitologiya fani aynan shu hodisani o'rganadi. Laborant uchun parazitizm tushunchasi tashxis va profilaktikaning nazariy asosi hisoblanadi, shuning uchun esseda ta'rif, turlari, xo'jayin turlari va tibbiy ahamiyati birma-bir yoritiladi."
+   ]
+  },
+  {
+   "heading": "Ta'rif",
+   "content": [
+    "Ekologik adabiyotda parazitizm yaqin munosabat sifatida ta'riflanadi: parazit (hech bo'lmaganda hayotining bir qismida) xo'jayinning ustida yoki ichida yashaydi, unga qandaydir zarar yetkazadi va tuzilishi jihatidan shu hayot tarziga moslashgan bo'ladi [2]. Demak, parazitizmning uch belgisi bor: yaqin aloqa, xo'jayinga zarar va parazitning moslashuvi. Bu ta'rif simbioz tushunchasining bir turi sifatida ham tilga olinadi. Boshqa munosabatlar, masalan, kommensalizm yoki mutualizm, parazitizmdan zarar yo'qligi bilan farq qiladi — bu umumiy biologik ma'lumot [tasdiqlanmagan]."
+   ]
+  },
+  {
+   "heading": "Parazit va xo'jayin",
+   "content": [
+    "Parazit — boshqa organizmning hisobiga oziqlanuvchi va uning ichida yoki ustida yashovchi organizm; xo'jayin — parazitni saqlovchi organizm. Zarar turlicha bo'lishi mumkin: ozuqa yo'qotilishi, to'qima shikastlanishi, qon yo'qotilishi, immun javob. JSST ma'lumotiga ko'ra, tuproq gelmintlari xo'jayin to'qimalari, shu jumladan qon bilan oziqlanadi, bu temir va oqsil yo'qotilishiga olib keladi; ankilostomalar surunkali ichak qon yo'qotilishiga sabab bo'ladi [3]. Bu parazitizmning amaliy zarari."
+   ]
+  },
+  {
+   "heading": "Parazitlarning turlari",
+   "content": [
+    "Parazitlar joylashuviga ko'ra ektoparazitlar (tana yuzasida, masalan, bit, qo'tir oqsilchasi) va endoparazitlar (ichkarida, masalan, gelmintlar, protozoylar) ga bo'linadi. Majburiy (obligat) parazitlar xo'jayinsiz yashay olmaydi, fakultativ parazitlar esa erkin ham yashashi mumkin. Davriy parazitlar hayotining faqat bir qismini, doimiy parazitlar esa butun hayotini xo'jayinda o'tkazadi. Bu tasnif umumiy parazitologik bilimga asoslangan va bu yerda alohida manbadan tekshirilmagan [tasdiqlanmagan]. Misol sifatida Toxoplasma gondii majburiy hujayra ichi parazit ekani manbada ko'rsatilgan [4]."
+   ]
+  },
+  {
+   "heading": "Xo'jayin turlari",
+   "content": [
+    "Xo'jayinlar uch asosiy turga bo'linadi. Oxirgi (definitiv) xo'jayinda parazit jinsiy yetilgan shaklga yetadi va jinsiy ko'payadi. Oraliq xo'jayinda lichinka bosqichlari rivojlanadi. Rezervuar xo'jayin parazitning manbai bo'lib xizmat qiladi. Bu tushunchalarni misollar tushuntiradi. Toxoplasma gondii uchun yagona oxirgi xo'jayin — mushuksimonlar, barcha issiqqonli hayvonlar, shu jumladan sutemizuvchilar va qushlar, oraliq xo'jayin bo'lishi mumkin [4]. Exinokokk uchun oxirgi xo'jayinlar — go'shtxo'r hayvonlar (itlar), oraliq xo'jayinlar — o'txo'r va hamma narsa yeydigan hayvonlar; odam esa tasodifiy oraliq xo'jayin [5]."
+   ]
+  },
+  {
+   "heading": "Tasodifiy va paratenik xo'jayinlar",
+   "content": [
+    "Ba'zan odam parazit hayot siklining «boshi berk» nuqtasi bo'ladi. Toksokaroz qo'zg'atuvchilari odamda voyaga yetmaydi, lichinkalar ko'chib yuradi [6]. Exinokokkda odam tasodifiy oraliq xo'jayin bo'lib, infeksiyani oxirgi xo'jayinga uzatmaydi [5]. Bunday holatlarda odam kasallanadi, lekin parazit populyatsiyasini qo'llab-quvvatlamaydi. Bu parazitizm biologiyasidagi muhim jihat."
+   ]
+  },
+  {
+   "heading": "Ko'payish va moslashuv",
+   "content": [
+    "Parazitlar xo'jayinda yashash uchun moslashgan: ular fiksatsiya organlariga, immun javobdan qochish usullariga, ko'p tuxum qo'yishga ega. JSST ma'lumotiga ko'ra, katta chuvalanglar kuniga minglab tuxum ishlab chiqaradi [3]. Gelmintlarning bu xususiyati tashqi muhitga ko'p tuxum chiqishini ta'minlaydi. Ammo askarida, qilbosh chuvalang va ankilostomalar odam tanasida ko'paymaydi, qayta zararlanish faqat atrof-muhitdagi yuqumli bosqichlar bilan aloqadan keyin yuz beradi; Strongyloides stercoralis esa xo'jayinda ko'payishi mumkin [3]. Bu xususiyat bu turlarning xo'jayinga ta'sirini va davolash strategiyasini belgilaydi."
+   ]
+  },
+  {
+   "heading": "Parazit va xo'jayin muvozanati",
+   "content": [
+    "Parazitizmda xo'jayin va parazit moslashadi. Ko'p infeksiyalar belgisiz o'tadi, chunki yengil intensivlikdagi zararlanish odatda kasallik bermaydi [3]. Immuniteti zaif odamlarda esa ba'zi parazitlarning nazoratsiz ko'payishi o'limga olib kelishi mumkin; masalan, S. stercoralis uchun JSST shuni yozgan [3]. Demak, parazitizm natijasi xo'jayin holatiga ham bog'liq."
+   ]
+  },
+  {
+   "heading": "Tibbiy ahamiyati",
+   "content": [
+    "Parazitizm kasalliklar manbai bo'lib, dunyoda 1,5 milliard odam tuproq gelmintlari bilan zararlangan [3]. Ular ovqatlanish holatini yomonlashtiradi, bolalarning o'sishini susaytiradi, kamqonlik keltirib chiqaradi. Protozoy parazitizmi (lyamblya, amyoba, plazmodiy) ham keng tarqalgan. Parazitlar bilan kurash tashxis, davo, gigiyena va sanitariya choralarini o'z ichiga oladi."
+   ]
+  },
+  {
+   "heading": "Parazitologiya tarixi haqida",
+   "content": [
+    "Parazitizm hodisasi uzoq vaqtdan beri o'rganiladi: Cox sharhida insoniyat parazitologiyasi tarixi, jumladan qadimiy zararlanishlar va parazitlar hayot sikli aniqlanishi tavsiflangan; masalan, 1862-yilda Davaine askarida tuxumlarini yutish orqali yuqishni ko'rsatgan [7]. Bu tarix parazit va xo'jayin munosabati asta-sekin ochilganini ko'rsatadi."
+   ]
+  },
+  {
+   "heading": "Misol",
+   "content": [
+    "Misol uchun, ankilostoma ichakka kirib, shilliq qavatga yopishadi va qon bilan oziqlanadi. Xo'jayin (odam) qon va temir yo'qotadi, kamqon bo'lib qoladi. Parazit esa tuxum qo'yib ko'payadi. Bu parazitizmning to'liq ko'rinishi: parazit foyda oladi, xo'jayin zarar ko'radi [3]. Boshqa misol: mushuk ichagida Toxoplasma jinsiy ko'payadi, odam esa tasodifiy xo'jayin bo'lishi mumkin [4]."
+   ]
+  },
+  {
+   "heading": "Takrorlash uchun savol-javoblar",
+   "content": [
+    "Savol: parazitizm nima? Javob: bir tur ikkinchisining hisobiga yashab, unga zarar yetkazadigan yaqin munosabat [1, 2]. Savol: oxirgi xo'jayinda nima bo'ladi? Javob: parazit jinsiy yetilgan shaklga yetadi [5]. Savol: tasodifiy xo'jayinga misol? Javob: exinokokkda odam [5]. Savol: ankilostoma zarari? Javob: surunkali qon yo'qotish [3]."
+   ]
+  },
+  {
+   "heading": "Laborant uchun amaliy xulosa",
+   "content": [
+    "Laborant parazit va xo'jayin tushunchalarini aniq bilishi, topilgan shakl qaysi hayot sikli bosqichiga tegishli ekanini hisobotda ko'rsatishi (tuxum, lichinka, kista, trofozoit) va xo'jayin turini aniqlashi kerak."
+   ]
+  },
+  {
+   "heading": "Parazitizmning kelib chiqishi va evolyutsiyasi",
+   "content": [
+    "Parazitizm evolyutsiya jarayonida erkin yashovchi organizmlardan paydo bo'lgan va ko'p guruhlarda mustaqil ravishda qayta-qayta yuzaga kelgan, degan fikr bor; bu umumiy biologik qarash va bu yerda alohida manbadan tekshirilmagan [tasdiqlanmagan]. Parazit va xo'jayin bir-biriga ta'sir qilib birga evolyutsiya qiladi: xo'jayin himoya mexanizmlarini rivojlantiradi, parazit esa ularni chetlab o'tish yo'llarini topadi. Bu jarayon parazitar kasalliklar nega butunlay yo'qolmasligini tushuntiradi."
+   ]
+  },
+  {
+   "heading": "Xulosa",
+   "content": [
+    "Parazitizm — parazit xo'jayin hisobiga yashab, unga zarar yetkazadigan yaqin munosabat; parazitlar ektoparazit va endoparazit, xo'jayinlar oxirgi, oraliq, tasodifiy bo'lishi mumkin [1, 2, 3, 4, 5, 6, 7]."
+   ]
+  }
+ ],
+ "references": [
+  "Parasitism. Encyclopaedia Britannica. URL: https://www.britannica.com/science/parasitism (qidiruv annotatsiyasi o'qilgan)",
+  "Parasitism (Poulin, 2007 ta'rifiga tayangan). LibreTexts Biology. URL: https://bio.libretexts.org/Courses/Gettysburg_College/01:_Ecology_for_All/16:_Antagonistic_Interactions/16.04:_Parasitism (qidiruv annotatsiyasi o'qilgan)",
+  "World Health Organization. Soil-transmitted helminth infections: fact sheet. URL: https://www.who.int/news-room/fact-sheets/detail/soil-transmitted-helminth-infections",
+  "Marín-García P.-J., Planas N., Llobat L. Toxoplasma gondii in Foods: Prevalence, Control, and Safety. Foods. 2022. PubMed Central, PMC9407268. URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC9407268/",
+  "World Health Organization. Echinococcosis: fact sheet. URL: https://www.who.int/news-room/fact-sheets/detail/echinococcosis",
+  "Neglected Parasitic Infections in the United States: Toxocariasis. PubMed Central, PMC4015569. URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC4015569/",
+  "Cox F. E. G. History of human parasitology. Clinical Microbiology Reviews, 2002, 15(4): 595–612. DOI: 10.1128/CMR.15.4.595-612.2002"
+ ]
+}
