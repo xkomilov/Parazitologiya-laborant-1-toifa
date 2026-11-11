@@ -1,0 +1,87 @@
+{
+ "number": 28,
+ "title": "28. Bezgakning laboratoriya diagnostikasi",
+ "sections": [
+  {
+   "heading": "Kirish",
+   "content": [
+    "Bezgakni faqat klinik belgilar bo'yicha aniq tashxislab bo'lmaydi: isitma, titroq va bosh og'rig'i ko'plab kasalliklarda uchraydi. Shuning uchun bezgak tashxisi laboratoriya tasdig'ini talab qiladi. Jahon sog'liqni saqlash tashkiloti barcha gumon qilingan bezgak holatlari parazitologik usul bilan, ya'ni mikroskopiya yoki tezkor diagnostik test yordamida tasdiqlanishi kerakligini tavsiya etadi [1]. Esseda laboratoriya diagnostikasining asosiy usullari, ularning afzalliklari, cheklovlari va amaliy qoidalari yoritiladi."
+   ]
+  },
+  {
+   "heading": "Tashxisning vazifalari",
+   "content": [
+    "Laboratoriya tashxisi to'rtta savolga javob beradi. Birinchi — bemorda bezgak parazitlari bormi. Ikkinchi — qaysi tur parazit bor, chunki davolash va kuzatuv turga bog'liq. Uchinchi — parazitemiya darajasi qanday, ya'ni qon eritrotsitlarining qancha qismi zararlangan; bu kasallik og'irligini baholashga yordam beradi. To'rtinchi — davolash samarali bo'ldimi, ya'ni parazitlar kamayyaptimi. Har bir savol ma'lum tekshiruv usulini talab qiladi."
+   ]
+  },
+  {
+   "heading": "Mikroskopiya",
+   "content": [
+    "Bezgak tashxisining «oltin standarti» — bo'yalgan qon surtmasini mikroskop ostida ko'rish. Ikki turdagi preparat tayyorlanadi: qalin tomchi va yupqa surtma. Qalin tomchida qon ko'p miqdorda to'planadi va eritrotsitlar parchalanadi, shuning uchun parazit juda oz bo'lganda ham ko'rinadi; bu usul parazitni aniqlashda sezgir. Yupqa surtmada esa eritrotsitlar butun qoladi va parazit hamda eritrotsit shakllari yaxshi ko'rinadi, shu sababli tur aniqlash va parazitemiya darajasini baholash uchun qulay. Preparatlar odatda Giemza usulida bo'yaladi. Bu umumiy bayon klassik laboratoriya amaliyotiga tayanadi va mazkur seansda alohida manbadan tekshirilmagan [tasdiqlanmagan]."
+   ]
+  },
+  {
+   "heading": "Mikroskopiyaning afzalliklari va cheklovlari",
+   "content": [
+    "Mikroskopiya arzon, parazit turini va miqdorini aniqlaydi, davolash natijasini kuzatish imkonini beradi. Biroq u malakali mutaxassis, sifatli reaktiv va yaxshi mikroskop talab qiladi, parazit soni juda kam bo'lganda esa xato salbiy natija berishi mumkin. Shu sababli klinik shubha saqlansa, surtma bir necha marta takrorlanadi. Natijaning sifati laborantning tajribasiga bog'liq, shuning uchun sifat nazorati zarur."
+   ]
+  },
+  {
+   "heading": "Tezkor diagnostik testlar",
+   "content": [
+    "Tezkor diagnostik testlar (TDT) qonning bir tomchisidan bir necha daqiqada natija beradi va mikroskopiya mavjud bo'lmagan joylarda qo'l keladi. Jahon sog'liqni saqlash tashkiloti ularni mikroskopiya bilan bir qatorda tasdiqlash usuli sifatida qabul qiladi [1]. Ko'pchilik tezkor testlar P. falciparum ning HRP2 va HRP3 oqsillarini aniqlaydi. Biroq bu oqsillarni ishlab chiqarmaydigan mutant parazitlar test bilan aniqlanmaydi va bunday parazitlar 2024-yilda 42 ta endemik mamlakatda qayd etilgan; ba'zi mamlakatlarda, jumladan Braziliya, Jibuti, Eritreya, Efiopiya, Nikaragua va Peruda ularning taxminiy tarqalganligi 15 foizdan oshadi [1]. Bu holat tezkor testlarning cheklovini ko'rsatadi."
+   ]
+  },
+  {
+   "heading": "Molekulyar usullar",
+   "content": [
+    "Polimeraza zanjir reaksiyasi (PZR) va boshqa molekulyar usullar parazit DNK sini aniqlaydi. Ular juda sezgir, aralash infeksiyalarni va kam uchraydigan turlarni, masalan P. knowlesi ni, aniq ajrata oladi. Ammo ular qimmat, maxsus jihoz va malaka talab qiladi, shuning uchun odatda ma'lumotnoma laboratoriyalarida qo'llanadi. Molekulyar usullar mikroskopiya natijasi noaniq bo'lganda tasdiqlash uchun ishlatiladi. Bu yondashuv umumiy amaliyotga asoslangan va seansda alohida manbadan tekshirilmagan [tasdiqlanmagan]."
+   ]
+  },
+  {
+   "heading": "Serologik usullar",
+   "content": [
+    "Antitelolarni aniqlash bezgakning o'tkir bosqichida tashxis qo'yish uchun yaroqsiz, chunki antitelolar kasallikning dastlabki kunlarida hali hosil bo'lmaydi va o'tgan infeksiyadan keyin ham saqlanadi. Serologiya epidemiologik tadqiqotlar va qon donorlarini skrining qilish uchun ishlatiladi. Shuning uchun o'tkir isitmalovchi bemorda serologik test bilan tashxis qo'yish xato bo'ladi."
+   ]
+  },
+  {
+   "heading": "Namunani olish va yuborish",
+   "content": [
+    "Tahlil uchun qon barmoq uchidan yoki venadan olinadi. Qalin tomchi va yupqa surtma toza buyum oynasiga darhol tayyorlanadi, qurigach bo'yaladi. Venadan olingan qon antikoagulyant bilan olinishi mumkin, lekin preparat tayyorlashni kechiktirish parazit morfologiyasini buzishi mumkin. Namunani olish isitma xurujining eng baland nuqtasida bo'lishi shart emas, chunki parazit boshqa vaqtda ham qonda bo'ladi. Namuna olinganda bemorning ismi, sanasi, vaqti aniq yoziladi."
+   ]
+  },
+  {
+   "heading": "Natijani talqin qilish",
+   "content": [
+    "Laborant natijada quyidagilarni ko'rsatishi kerak: parazit topildimi, tur qaysi, parazitemiya darajasi qancha, parazitning qaysi bosqichlari bor (halqalar, trofozoitlar, shizontlar, gametotsitlar). P. falciparum topilsa, shifokorga darhol xabar qilinadi, chunki bu holat shoshilinch davolashni talab qiladi [1]. Salbiy natija chiqsa, lekin klinik shubha qolsa, tekshiruv takrorlanadi. Natija bemor kartasiga va laboratoriya jurnaliga yoziladi."
+   ]
+  },
+  {
+   "heading": "Sifat nazorati",
+   "content": [
+    "Bezgak diagnostikasida sifat nazorati mikroskopiya sifati, reaktivlar sifati va natijalarni qayta ko'rib chiqishni o'z ichiga oladi. Odatda ijobiy natijalarning hammasi va salbiy natijalarning bir qismi ikkinchi mutaxassis tomonidan qayta tekshiriladi. Bu amaliyotlarning aniq tartibi milliy yo'riqnomalar bilan belgilanadi va mazkur seansda tasdiqlanmadi [tasdiqlanmagan]."
+   ]
+  },
+  {
+   "heading": "Laborant uchun amaliy qoidalar",
+   "content": [
+    "Bezgak tashxisida laborant bir nechta qoidaga amal qiladi. Qon surtmasini darhol tayyorlash, buyum oynasini toza ishlatish, bo'yoqni yangi tayyorlash, immersiya moyidan to'g'ri foydalanish. Salbiy deb xulosa chiqarishdan oldin qalin tomchining kamida 100 ta ko'rish maydonini ko'rib chiqish amaliyotda keng tarqalgan qoida, ammo bu raqam mazkur seansda alohida manbadan tekshirilmagan [tasdiqlanmagan]. Har bir shubhali natija ikkinchi mutaxassisga ko'rsatiladi. Ijobiy natija bemor ismi, sanasi va tur bilan jurnalga yoziladi va shifokorga darhol xabar qilinadi."
+   ]
+  },
+  {
+   "heading": "Xavfsizlik choralari",
+   "content": [
+    "Qon bilan ishlaganda laborant shaxsiy himoya vositalaridan, ya'ni qo'lqop, xalat va kerak bo'lsa ko'zoynakdan foydalanadi. Bezgak qon orqali yuqishi mumkin, shuning uchun igna va lansetlar bir martalik bo'ladi, tekshirilgan materiallar belgilangan tartibda zararsizlantiriladi. Jahon sog'liqni saqlash tashkiloti bezgak ifloslangan ignalar orqali ham yuqishi mumkinligini ta'kidlaydi [1]. Shu bois xavfsizlik qoidalariga rioya qilish laborantni ham, bemorni ham himoya qiladi."
+   ]
+  },
+  {
+   "heading": "Xulosa",
+   "content": [
+    "Bezgakning laboratoriya diagnostikasi mikroskopiya (qalin tomchi va yupqa surtma) va tezkor testlarga asoslanadi, molekulyar usullar tasdiqlash uchun qo'llanadi. Jahon sog'liqni saqlash tashkiloti barcha gumon qilingan holatlarni parazitologik tasdiqlashni tavsiya etadi [1]. Mikroskopiya tur va parazitemiyani aniqlash uchun asosiy usul bo'lib qoladi."
+   ]
+  }
+ ],
+ "references": [
+  "World Health Organization. Malaria: fact sheet. Geneva: WHO. URL: https://www.who.int/news-room/fact-sheets/detail/malaria"
+ ]
+}
