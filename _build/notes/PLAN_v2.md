@@ -8,3 +8,6 @@
 - Holat: (yangilab boriladi)
 - [x] clean.py, clean2.py (meta), first-person cleanup — barcha 149 da bajarildi
 - [x] G1 bezgak 14-44: mahalliy bo'limlar qo'shildi (notes_bezgak.md). 22/23 Xulosa yangilandi.
+- [x] G2 leysh 45-67, G4 KQT 68-75, umumiy 4-12, 76-82 bajarildi (addsec + applyloc). notes_*.md fayllarida manbalar.
+- [ ] Qoldi: 1-3, 13, 83-127, 128-149. Keyin: bld.sh (QISQA yo'qligi), final.sh, verify.py (sarlavha, apostrof, "esse"/"imtihon" yo'qligi, taqiqlangan bo'limlar yo'qligi), changelog, commit, PR.
+- Qo'shimcha manbalar: 404 (SSV 43-son, VMQ 9-son 2015), 1559/1560 davolash bayonnomalari (166-son), 2737/2736 darsliklar.
