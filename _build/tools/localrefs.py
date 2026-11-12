@@ -58,3 +58,7 @@ R[1555]="Bezgak mavsumi. Bezgak mavsumi elementlari (Malyariyniy sezon. Elementy
 R[1594]="Chivinlar bilan kurashda kimyoviy usullar. O'quv taqdimoti (SSV 2011-yil 15-apreldagi 117-son buyrug'i bilan tasdiqlangan «O'zbekiston Respublikasida bezgak eliminatsiyasi bo'yicha milliy strategik reja (2011–2015)» materiallari asosida). Kutubxona: xayrullokomilov.uz. URL: "+U%1594
 R[1575]="Anopheles guruhiga kiruvchi chivinlar, ularning biologiyasi, ekologiyasi. O'quv taqdimoti. Kutubxona: xayrullokomilov.uz. URL: "+U%1575
 R[2469]="Parazitar kasalliklar laboratoriya diagnostikasi mutaxassisligi bo'yicha shakllantirilgan og'zaki savollar ro'yxati. Kutubxona: xayrullokomilov.uz. URL: "+U%2469
+R[1597]="Tyo I.L. O'zbekiston Respublikasida leyshmaniozlar ustidan epidemiologik nazorat (Epidemiologicheskiy nadzor za leyshmaniozami v Respublike Uzbekistan). Respublika DSENM, Toshkent, 17.04.2017. Taqdimot. Kutubxona: xayrullokomilov.uz. URL: "+U%1597
+R[1593]="O'zbekistonning leyshmanioz o'choqlarida uchraydigan moskitlar va ularga qarshi kurash usullari. O'quv taqdimoti. Kutubxona: xayrullokomilov.uz. URL: "+U%1593
+R[1600]="Standarty diagnostiki i lecheniya parazitarnyx bolezney dlya vsex urovney (SSV 2016-yil 5-apreldagi 166-son buyrug'i ilovasi, ruscha matn). Kutubxona: xayrullokomilov.uz. URL: "+U%1600
+R[1549]="Markaziy Osiyo moskitlari aniqlagichi (Opredelitel' moskitov (Diptera, Psychodidae, Phlebotominae) Tsentral'noy Azii). JSST. Kutubxona: xayrullokomilov.uz. URL: "+U%1549
