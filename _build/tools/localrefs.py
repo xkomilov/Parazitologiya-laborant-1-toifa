@@ -74,3 +74,4 @@ R[1341]="Baliq va baliq mahsulotlarini qayta ishlash va realizatsiya qilish korx
 R[1535]="Dalton J.P. (tahr.) Fassiolyoz. Monografiya (o'zbekcha tarjima). Kutubxona: xayrullokomilov.uz. URL: "+U%1535
 R[1543]="Atlas. Meditsinskaya parazitologiya. Qo'llanma. Kutubxona: xayrullokomilov.uz. URL: "+U%1543
 R[1522]=R.get(1522,"O'zbekiston Respublikasi Sog'liqni saqlash vazirining 2015-yil 25-martdagi 121-son buyrug'iga 7-ilova. Parazitar kasalliklarning epidemiologik nazorati. Kutubxona: xayrullokomilov.uz. URL: "+U%1522)
+R[656]="SanQvaN № 0083-24. Yer osti va yer usti suv obyektlarini muhofaza qilish bo'yicha sanitariya qoidalari, normalari va gigiyena normativlari (O'zbekiston Respublikasi Adliya vazirligi tomonidan 2024-yil 13-dekabrda ro'yxatga olingan, № 321). Kutubxona: xayrullokomilov.uz. URL: "+U%656

@@ -5,7 +5,7 @@
   {
    "heading": "Kirish",
    "content": [
-    "Gelmintlarni tasniflashning bir necha usuli bor: ularni sistematik jihatdan sinflarga, joylashuviga qarab a'zolarga yoki rivojlanish xususiyatlariga ko'ra guruhlarga ajratish mumkin. Amaliy epidemiologiya va profilaktika uchun eng foydali usul — rivojlanish davrlarining biologik xususiyatlariga asoslangan tasnif. Chunki gelmintning qaerda va qanday yetilishi uning odamga qanday yuqishini, demak, yuqish zanjirining qaysi bo'g'inini uzish kerakligini aniqlab beradi. Mazkur tasnif an'anaviy ravishda gelmintlarni uch guruhga ajratadi: geogelmintlar, biogelmintlar va kontakt gelmintlar. Bu bo'linishning rus gelmintologiya maktabi, xususan Skryabin nomi bilan bog'lanishi keng aytiladi, ammo muallifligi mazkur esseda alohida manba bilan tasdiqlanmagan [1]."
+    "Gelmintlarni tasniflashning bir necha usuli bor: ularni sistematik jihatdan sinflarga, joylashuviga qarab a'zolarga yoki rivojlanish xususiyatlariga ko'ra guruhlarga ajratish mumkin. Amaliy epidemiologiya va profilaktika uchun eng foydali usul — rivojlanish davrlarining biologik xususiyatlariga asoslangan tasnif. Chunki gelmintning qaerda va qanday yetilishi uning odamga qanday yuqishini, demak, yuqish zanjirining qaysi bo'g'inini uzish kerakligini aniqlab beradi. Mazkur tasnif an'anaviy ravishda gelmintlarni uch guruhga ajratadi: geogelmintlar, biogelmintlar va kontakt gelmintlar."
    ]
   },
   {
@@ -41,15 +41,23 @@
   {
    "heading": "Amaliy ahamiyati",
    "content": [
-    "Tasnifning amaliy qiymati profilaktikada yaqqol namoyon bo'ladi. Geogelmintozlarda asosiy e'tibor tuproq va suvni najas bilan ifloslanishdan himoya qilish, sanitariya sharoitini yaxshilash va yuvilmagan sabzavotni iste'mol qilmaslikka qaratiladi; JSST bu yerda xavf guruhlarini individual tashxissiz davriy davolashni ham tavsiya etadi. Biogelmintozlarda oraliq xo'jayin va oxirgi xo'jayinni nazorat qilish ustuvor. Kontakt gelmintozlarda esa qo'lni yuvish, ichki kiyim va ro'zg'or buyumlarini tozalash, jamoada bir vaqtda davolash eng muhim. Laborant uchun bu bilim namunani tanlashda ham yordam beradi: geogelmintozda najas, enterobiozda perianal qirindi, biogelmintozda tashxis ko'pincha aniq turga bog'liq usullar bilan qo'yiladi [2]."
+    "Tasnifning amaliy qiymati profilaktikada yaqqol namoyon bo'ladi. Geogelmintozlarda asosiy e'tibor tuproq va suvni najas bilan ifloslanishdan himoya qilish, sanitariya sharoitini yaxshilash va yuvilmagan sabzavotni iste'mol qilmaslikka qaratiladi; JSST bu yerda xavf guruhlarini individual tashxissiz davriy davolashni ham tavsiya etadi. Biogelmintozlarda oraliq xo'jayin va oxirgi xo'jayinni nazorat qilish ustuvor. Kontakt gelmintozlarda esa qo'lni yuvish, ichki kiyim va ro'zg'or buyumlarini tozalash, jamoada bir vaqtda davolash eng muhim."
    ]
   },
   {
    "heading": "Tasnifdan laboratoriya amaliyotida foydalanish",
    "content": [
-    "Biologik tasnif laborant uchun tekshiruvni rejalashtirishda ham foydali. Geogelmintozlarga shubha bo'lsa, najas namunasida tuxumlar izlanadi va ularning rivojlanish darajasi ham baholanadi, chunki tuproq sharoitida yetilgan tuxumlar infeksion hisoblanadi. Biogelmintozlarda tashxis qo'yishda oraliq xo'jayinga aloqa, ya'ni xom baliq, go'sht yoki hayvon bilan muloqot haqidagi anamnez muhim, chunki faqat mikroskopiya yetarli bo'lmay qoladi. Kontakt gelmintozlarda esa namuna olish usulining o'zi, masalan perianal qirindi, tekshiruv natijasini belgilaydi.",
+    "Geogelmintozlarga shubha bo'lsa, najas namunasida tuxumlar izlanadi va ularning rivojlanish darajasi ham baholanadi, chunki tuproq sharoitida yetilgan tuxumlar infeksion hisoblanadi. Biogelmintozlarda tashxis qo'yishda oraliq xo'jayinga aloqa, ya'ni xom baliq, go'sht yoki hayvon bilan muloqot haqidagi anamnez muhim, chunki faqat mikroskopiya yetarli bo'lmay qoladi. Kontakt gelmintozlarda esa namuna olish usulining o'zi, masalan perianal qirindi, tekshiruv natijasini belgilaydi.",
     "Shuningdek, bu tasnif jamoalarda tekshiruvni tashkil etishda ham qo'l keladi: kontakt gelmintozlar bo'yicha bolalar bog'chasidagi barcha bolalar va xodimlar bir vaqtda tekshiriladi, geogelmintozlar bo'yicha esa tuproq va suv namunalari ham olinadi.",
     "Yana bir amaliy jihati shuki, har bir guruh uchun nazorat ko'rsatkichlari ham turlicha. Geogelmintozda tuproqning ifloslanish darajasi, biogelmintozda hayvonlar orasidagi zararlanish, kontakt gelmintozda esa jamoadagi tarqalganlik kuzatiladi. Shu bois sanitariya-parazitologik monitoring ham tasnifga asoslanadi."
+   ]
+  },
+  {
+   "heading": "Mahalliy kutubxona darsliklari va yo'riqnomalarda tasnif",
+   "content": [
+    "Tinch okeani davlat tibbiyot universitetining o'quv qo'llanmasida gelmintozlar zararlanish mexanizmi va tashqi muhitdagi rivojlanish shartlariga ko'ra geogelmintozlar, biogelmintozlar va kontagioz (kontakt) gelmintozlarga bo'linadi; tasnifning ikkinchi asosi gelmintlarning erta bosqichlarida (tuxum, lichinka) odam organizmidan tashqaridagi muhitga turlicha talablar qo'yishidir [4]. Biogelmintozlar guruhida peroral antroponozlar (teniarinxoz, tenioz, difillobotrioz), peroral zoonozlar (exinokokkoz, alveokokkoz, opistorxoz, trixinellyoz, fassiolyoz), perkutan antroponozlar (ichak va siydik-tanosil shistosomozi, vuxererioz, onxotserkoz) va perkutan zoonozlar (yapon shistosomozi) ajratiladi [4]. Geogelmintozlar peroral antroponozlar (askaridoz, trixotsefalyoz) va perkutan antroponozlar (ankilostomidoz, strongiloidoz) bilan ifodalanadi; kontagioz gelmintozlar esa peroral antroponozlar (pakana gijja gimenolepidozi, enterobioz) va peroral zoonozlarni (kalamush gijjasi gimenolepidozi) o'z ichiga oladi [4].",
+    "Qo'llanmada har bir guruhning biologik xususiyati tushuntiriladi. Geogelmintlar xo'jayin almashtirmasdan rivojlanadi: odam yetilmagan tuxum yoki lichinkalarni tashqi muhitga, odatda tuproqqa chiqaradi, ular u yerda invazion bosqichgacha yetiladi; faqat strongiloidozda sikl ba'zan odam organizmi ichida tugashi mumkin [4]. Kontagioz guruh parazitlari ham oraliq xo'jayinsiz rivojlanadi, ammo ularning tuxumlari ajralishi bilanoq yuqumli bo'ladi — bu pakana gijja va ostritsa [4]. Biogelmintlar rivojlanishi uchun oraliq xo'jayin, ba'zan qo'shimcha xo'jayin ham zarur; zararlanish odatda baliq yoki hayvon go'shti orqali bo'ladi [4].",
+    "Bu tasnif O'zbekistondagi me'yoriy hujjatlarning tuzilishida ham aks etgan. Sog'liqni saqlash vazirining 121-son buyrug'iga 4-ilovada tadbirlar aynan shu guruhlar bo'yicha bayon etilgan: kontakt orqali yuqadigan enterobioz va gimenolepidoz, geogelmintozlar (askaridoz va trixotsefalyoz), go'sht orqali yuqadigan biogelmintozlar (teniarinxoz va tenioz), exinokokkoz, fassiolyoz, trixinellyoz, toksokaroz hamda baliq va boshqa suv jonivorlari orqali yuqadigan gelmintozlar [5]. Yo'riqnomaga ko'ra geogelmintozlarning manbai invaziyalangan odam bo'lib, aholiga yuqtirish mavsumi yoz–kuz davriga to'g'ri keladi, biogelmintozlar esa xom va chala pishgan go'sht, ya'ni kabob, chuchvara, somsa, manti kabi taomlar orqali yuqadi [5]."
    ]
   },
   {
@@ -60,8 +68,10 @@
   }
  ],
  "references": [
-  "Shikhobalova N.P. Skryabin, Konstantin Ivanovich // Complete Dictionary of Scientific Biography (Encyclopedia.com). URL: https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/skryabin-konstantin-ivanovich. (ayrim bayonlar shu manbadan tekshirilmagan [tasdiqlanmagan])",
+  "Shikhobalova N.P. Skryabin, Konstantin Ivanovich // Complete Dictionary of Scientific Biography (Encyclopedia.com). URL: https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/skryabin-konstantin-ivanovich.",
   "World Health Organization. Soil-transmitted helminth infections: fact sheet. Geneva: WHO, 2023. URL: https://www.who.int/news-room/fact-sheets/detail/soil-transmitted-helminth-infections.",
-  "Cox F.E.G. History of human parasitology. Clinical Microbiology Reviews, 2002, 15(4): 595–612. DOI: 10.1128/CMR.15.4.595-612.2002."
+  "Cox F.E.G. History of human parasitology. Clinical Microbiology Reviews, 2002, 15(4): 595–612. DOI: 10.1128/CMR.15.4.595-612.2002.",
+  "Meditsinskaya parazitologiya. Uchebnoe posobie. Tixookeanskiy davlat tibbiyot universiteti. Vladivostok: Meditsina DV, 2017. Kutubxona: xayrullokomilov.uz. URL: https://xayrullokomilov.uz/api/materiallar/2737/fayl",
+  "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 2015-yil 25-martdagi 121-son buyrug'iga 4-ilova. Gelmintozlar bo'yicha yo'riqnoma. Kutubxona: xayrullokomilov.uz. URL: https://xayrullokomilov.uz/api/materiallar/1525/fayl"
  ]
 }
