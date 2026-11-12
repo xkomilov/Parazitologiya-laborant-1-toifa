@@ -72,3 +72,5 @@ R[1591]="Trixotsefalyoz u detey. O'quv taqdimoti. Kutubxona: xayrullokomilov.uz.
 R[1592]="Trixotsefalyoz. O'quv taqdimoti. Kutubxona: xayrullokomilov.uz. URL: "+U%1592
 R[1341]="Baliq va baliq mahsulotlarini qayta ishlash va realizatsiya qilish korxonalari xodimlari uchun sanitariya minimumi o'quv materiali. Kutubxona: xayrullokomilov.uz. URL: "+U%1341
 R[1535]="Dalton J.P. (tahr.) Fassiolyoz. Monografiya (o'zbekcha tarjima). Kutubxona: xayrullokomilov.uz. URL: "+U%1535
+R[1543]="Atlas. Meditsinskaya parazitologiya. Qo'llanma. Kutubxona: xayrullokomilov.uz. URL: "+U%1543
+R[1522]=R.get(1522,"O'zbekiston Respublikasi Sog'liqni saqlash vazirining 2015-yil 25-martdagi 121-son buyrug'iga 7-ilova. Parazitar kasalliklarning epidemiologik nazorati. Kutubxona: xayrullokomilov.uz. URL: "+U%1522)
