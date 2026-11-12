@@ -10,7 +10,7 @@ R={
 432:"O'zbekiston Respublikasi Sog'liqni saqlash vazirining 2015-yil 25-martdagi 121-son buyrug'i «Respublikada parazitar kasalliklar profilaktikasi bo'yicha chora-tadbirlarni takomillashtirish to'g'risida». Kutubxona: xayrullokomilov.uz. URL: "+U%432,
 398:"O'zbekiston Respublikasi Sog'liqni saqlash vazirining 2016-yil 5-apreldagi 166-son buyrug'i «Parazitar kasalliklarni tashxisoti va davolash standartlari hamda davolash bayonnomalarini tasdiqlash to'g'risida». Kutubxona: xayrullokomilov.uz. URL: "+U%398,
 1547:"Umirov S.E., Magzumov H.B., Mirzaboyev D.S. va boshq. Bezgakning etiologiyasi, klinikasi, tashxisoti, epidemiologiyasi, epidemiologik nazorati va profilaktikasi. Uslubiy qo'llanma. Toshkent tibbiyot akademiyasi, 2009. Kutubxona: xayrullokomilov.uz. URL: "+U%1547,
-1607:"Exinokokkoz. Uslubiy qo'llanma. Kutubxona: xayrullokomilov.uz. URL: "+U%1607,
+1607:"Rasulov Sh.M., Matnazarova G.S. Exinokokkozning etiologiyasi, epizootologiyasi, epidemiologiyasi, profilaktikasi va epidemiologik nazorati. O'quv-uslubiy qo'llanma. Toshkent tibbiyot akademiyasi, 2021. Kutubxona: xayrullokomilov.uz. URL: "+U%1607,
 486:"O'zbekiston Respublikasi Sog'liqni saqlash vazirining 2000-yil 13-dekabrdagi 630-son buyrug'i «Ayrim yuqumli va parazitar kasalliklarni hisobga olishni takomillashtirish to'g'risida». Kutubxona: xayrullokomilov.uz. URL: "+U%486,
 321:"O'zbekiston Respublikasi SEO va JSQ xizmati 2024-yil 25-yanvardagi 8-son buyrug'iga 3-ilova. Parazitologiya laboratoriyasi to'g'risida nizom. Kutubxona: xayrullokomilov.uz. URL: "+U%321,
 265:"Parazitar kasalliklar bo'limi va laboratoriyasi nizomi. Kutubxona: xayrullokomilov.uz. URL: "+U%265,
