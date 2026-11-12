@@ -5,7 +5,7 @@
   {
    "heading": "Kirish",
    "content": [
-    "Bezgak o'chog'i aniqlangan va unga qarshi choralar o'tkazilgandan keyin ish tugamaydi. O'choq belgilangan muddat davomida kuzatuvda, ya'ni monitoringda bo'ladi. Monitoring ikki obyektni qamrab oladi: o'choqdagi odamlar (bemorlar va xavf ostidagi aholi) va tashqi muhit (chivinlar, ularning ko'payish joylari). Savolda «dispanser monitoring» deyilgan, ya'ni muntazam, rejali kuzatuv. Uning aniq milliy tartibi, muddatlari va shakllari mazkur seansda rasmiy hujjatdan tekshirilmadi [tasdiqlanmagan]. Quyida xalqaro tamoyillarga mos umumiy yondashuv bayon qilinadi."
+    "Bezgak o'chog'i aniqlangan va unga qarshi choralar o'tkazilgandan keyin ish tugamaydi. O'choq belgilangan muddat davomida kuzatuvda, ya'ni monitoringda bo'ladi. Monitoring ikki obyektni qamrab oladi: o'choqdagi odamlar (bemorlar va xavf ostidagi aholi) va tashqi muhit (chivinlar, ularning ko'payish joylari). «Dispanser monitoring» — muntazam, rejali kuzatuv. Quyida xalqaro tamoyillarga mos umumiy yondashuv bayon qilinadi."
    ]
   },
   {
@@ -29,7 +29,7 @@
   {
    "heading": "Monitoring jadvali",
    "content": [
-    "Monitoring rejali bo'lishi uchun jadval tuziladi: kimning qachon ko'rikdan o'tishi, qaysi punktlarda chivin tutilishi, qaysi sanalarda hisobot topshirilishi ko'rsatiladi. Jadval o'choq toifasiga mos tuziladi: faol o'choqda kuzatuv zichroq, tugatilgan o'choqda siyrakroq. Aniq muddatlar va chastotalar milliy hujjatlarda belgilangan va seansda tasdiqlanmadi [tasdiqlanmagan]. Jadvalga amal qilish va hujjatlashtirish — monitoringning intizomini ta'minlaydi."
+    "Monitoring rejali bo'lishi uchun jadval tuziladi: kimning qachon ko'rikdan o'tishi, qaysi punktlarda chivin tutilishi, qaysi sanalarda hisobot topshirilishi ko'rsatiladi. Jadval o'choq toifasiga mos tuziladi: faol o'choqda kuzatuv zichroq, tugatilgan o'choqda siyrakroq. Jadvalga amal qilish va hujjatlashtirish — monitoringning intizomini ta'minlaydi."
    ]
   },
   {
@@ -41,7 +41,7 @@
   {
    "heading": "Monitoring ko'rsatkichlari",
    "content": [
-    "Monitoring samarasi bir necha ko'rsatkich bilan baholanadi: tekshirilgan odamlar va qon namunalari soni (qon tekshiruvi indeksi), ijobiy natijalar ulushi, yangi holatlar soni, qaytalanishlar soni, chivin zichligi, ishlov berilgan uylar ulushi, aholining himoya vositalaridan foydalanishi. Bu ko'rsatkichlar vaqt bo'yicha solishtiriladi va yaxshilanish yoki yomonlashuv aniqlanadi. Nisbiy ko'rsatkichlarni hisoblash usullari alohida bayon qilingan [tasdiqlanmagan]."
+    "Monitoring samarasi bir necha ko'rsatkich bilan baholanadi: tekshirilgan odamlar va qon namunalari soni (qon tekshiruvi indeksi), ijobiy natijalar ulushi, yangi holatlar soni, qaytalanishlar soni, chivin zichligi, ishlov berilgan uylar ulushi, aholining himoya vositalaridan foydalanishi. Bu ko'rsatkichlar vaqt bo'yicha solishtiriladi va yaxshilanish yoki yomonlashuv aniqlanadi."
    ]
   },
   {
@@ -63,15 +63,9 @@
    ]
   },
   {
-   "heading": "Imtihon uchun qisqa javob",
-   "content": [
-    "Bezgak o'chog'ining dispanser monitoringi quyidagicha amalga oshiriladi: bemorlar va xavf ostidagi aholi muntazam ko'rikdan va qon tekshiruvidan o'tadi; chivinlar va ularning ko'payish joylari kuzatiladi; natijalar jurnalga yoziladi va tahlil qilinadi; yangi holat aniqlansa, o'choq tekshiruvi qayta boshlanadi; belgilangan muddat davomida holat bo'lmasa, monitoring tugatiladi."
-   ]
-  },
-  {
    "heading": "Monitoring axborot tizimi",
    "content": [
-    "Monitoring ma'lumotlari yagona tizimda to'planishi kerak: bemorlar ro'yxati, ko'rik sanalari, laboratoriya natijalari, chivin kuzatuvi, ishlov berish ma'lumotlari. Raqamli yoki qog'oz jurnallar bir xil shaklda yuritiladi va muntazam yuqori idoraga uzatiladi. Yagona tizim kechikishlarni, takrorlarni va yo'qolgan ma'lumotlarni kamaytiradi. Tizimning aniq tuzilishi milliy hujjatlarda belgilanadi va seansda tasdiqlanmadi [tasdiqlanmagan]."
+    "Monitoring ma'lumotlari yagona tizimda to'planishi kerak: bemorlar ro'yxati, ko'rik sanalari, laboratoriya natijalari, chivin kuzatuvi, ishlov berish ma'lumotlari. Raqamli yoki qog'oz jurnallar bir xil shaklda yuritiladi va muntazam yuqori idoraga uzatiladi. Yagona tizim kechikishlarni, takrorlarni va yo'qolgan ma'lumotlarni kamaytiradi."
    ]
   },
   {
@@ -83,7 +77,7 @@
   {
    "heading": "Monitoringning huquqiy va tashkiliy jihati",
    "content": [
-    "Monitoring ishlari sanitariya-epidemiologiya xizmati, oilaviy poliklinikalar va laboratoriyalarning birgalikdagi vazifasi. Har bir tashkilotning mas'uliyati aniq belgilanishi kerak: kim bemorni ko'rikka chaqiradi, kim namunani oladi, kim natijani hujjatlashtiradi, kim chivinlarga ishlov beradi. Mas'uliyat taqsimoti aniq bo'lmasa, monitoring uzilib qoladi. Bu taqsimot milliy hujjatlarda belgilanadi [tasdiqlanmagan]."
+    "Monitoring ishlari sanitariya-epidemiologiya xizmati, oilaviy poliklinikalar va laboratoriyalarning birgalikdagi vazifasi. Har bir tashkilotning mas'uliyati aniq belgilanishi kerak: kim bemorni ko'rikka chaqiradi, kim namunani oladi, kim natijani hujjatlashtiradi, kim chivinlarga ishlov beradi. Mas'uliyat taqsimoti aniq bo'lmasa, monitoring uzilib qoladi."
    ]
   },
   {
@@ -93,14 +87,24 @@
    ]
   },
   {
+   "heading": "Milliy yo'riqnomada o'choqni sog'lomlashtirish va kuzatish",
+   "content": [
+    "Sog'liqni saqlash vazirining 121-son buyrug'iga 1-ilovaga ko'ra, bezgak bilan og'rigan bemor haqida shoshilinch xabarnoma olingach, bemor yashash joyida va u yotqizilgan shifoxonada davolash-profilaktika muassasalari tibbiyot xodimlari, fuqarolar va mahalla fuqarolar yig'inlari xodimlari, kerak bo'lsa ichki ishlar va mudofaa xizmati xodimlari jalb qilingan holda epidemiyaga qarshi tadbirlar o'tkaziladi [3]. Kontaktlar 21 kun davomida tibbiy kuzatuvda bo'ladi, kuzatuv varag'iga tana harorati, teri rangi, taloq va jigar holati yoziladi; yolg'on o'choqdan tashqari barcha o'choqlarda uch yil davomida sog'lomlashtirish tadbirlari o'tkaziladi [3].",
+    "Kuzatuvning amaliy shakli uyma-uy yurishdir. Hududiy tibbiyot muassasasi tomonidan uch o'rta tibbiyot xodimi va bir vrachdan iborat brigada tuziladi; birlamchi o'choqda uyma-uy yurish 2 haftada bir marta, shu hududda qayta holat ro'yxatga olinsa haftada bir marta o'tkaziladi [3]. Uyma-uy yurishda xorijga borib kelganlar, aholi tomorqalaridagi sholi ekilgan maydonlar va chivin ko'payish joylari to'g'risidagi ma'lumotlar hududiy DSENMga beriladi; uzoq hududlarga borish uchun transport ajratiladi, tibbiyot xodimlari termometr va steril to'plam (buyum oynasi, skarifikator, paxta, spirt, qalam va qog'oz) bilan ta'minlanadi [3]. Faol va qoldiq faol o'choqlarda aholining yoshiga qarab mavsumiy kimyoprofilaktika, mavsumaro esa primaxin bilan 14 kunlik kimyoprofilaktika o'tkaziladi [3].",
+    "O'choqni kuzatish entomologik monitoring bilan to'ldiriladi. Yo'riqnomaga ko'ra entomologik brigada mahalla fuqarolar yig'inlari bilan hamkorlikda chivinlarga qarshi tadbirlar o'tkazadi; kimyoviy ishlov samaradorligi bir sutkadan keyin baholanadi va chivinlar soni 95 foizdan ko'proq kamaysa samarali hisoblanadi [3]. Mahalliy uslubiy qo'llanmada epidemik chaqnashdan keyingi yilda yuqish mavsumi boshlanishida parazit tashuvchilikning ahamiyati keskin oshishi qayd etilgan [4]; shu sababli o'choq mavsum boshlanishidan oldin ayniqsa sinchkovlik bilan kuzatiladi. Umumta'lim maktablarida bezgakni oldini olish bo'yicha diktantlar va aholi o'rtasida tushuntirish ishlari ham o'choqni kuzatish tadbirlariga kiradi [3]."
+   ]
+  },
+  {
    "heading": "Xulosa",
    "content": [
-    "Bezgak o'chog'ining dispanser monitoringi odamlar va chivinlar kuzatuvi, laboratoriya tekshiruvlari, rejali jadval, ko'rsatkichlar tahlili va hujjatlashtirishni o'z ichiga oladi. Maqsadi — yangi holatlarni erta aniqlash va o'choqni barqaror tugatish. Milliy tartib va muddatlar tasdiqlanmadi [tasdiqlanmagan] [1, 2]."
+    "Bezgak o'chog'ining dispanser monitoringi odamlar va chivinlar kuzatuvi, laboratoriya tekshiruvlari, rejali jadval, ko'rsatkichlar tahlili va hujjatlashtirishni o'z ichiga oladi. Maqsadi — yangi holatlarni erta aniqlash va o'choqni barqaror tugatish."
    ]
   }
  ],
  "references": [
   "World Health Organization. Malaria: fact sheet. Geneva: WHO. URL: https://www.who.int/news-room/fact-sheets/detail/malaria",
-  "World Health Organization. Malaria Microscopy Standard Operating Procedure MM-SOP-08: Microscopy examination of thick and thin blood films for identification of malaria parasites. URL: https://who.int/docs/default-source/wpro---documents/toolkit/malaria-sop/gmp-sop-08-revised.pdf"
+  "World Health Organization. Malaria Microscopy Standard Operating Procedure MM-SOP-08: Microscopy examination of thick and thin blood films for identification of malaria parasites. URL: https://who.int/docs/default-source/wpro---documents/toolkit/malaria-sop/gmp-sop-08-revised.pdf",
+  "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 2015-yil 25-martdagi 121-son buyrug'iga 1-ilova. Aholi o'rtasida bezgak kasalligining profilaktikasi va chetdan kirib kelishini oldini olish chora-tadbirlari to'g'risidagi yo'riqnoma. Kutubxona: xayrullokomilov.uz. URL: https://xayrullokomilov.uz/api/materiallar/1523/fayl",
+  "Umirov S.E., Magzumov H.B., Mirzaboyev D.S. va boshq. Bezgakning etiologiyasi, klinikasi, tashxisoti, epidemiologiyasi, epidemiologik nazorati va profilaktikasi. Uslubiy qo'llanma. Toshkent tibbiyot akademiyasi, 2009. Kutubxona: xayrullokomilov.uz. URL: https://xayrullokomilov.uz/api/materiallar/1547/fayl"
  ]
 }

@@ -5,7 +5,7 @@
   {
    "heading": "Kirish",
    "content": [
-    "Laboratoriya tekshiruvi KQT tashxisining hal qiluvchi bosqichi. Ko'rsatmalar — qachon, kimda, qanday namuna va qanday usulda tekshirish kerakligi haqidagi qoidalar. O'zbekistonning milliy ko'rsatmalari (buyruq, yo'riqnoma, SOP) mazkur seansda tekshirilmadi [tasdiqlanmagan]; quyida ilmiy adabiyotda bayon qilingan klinik va laboratoriya asoslariga tayanib, umumiy ko'rsatmalar tizimlashtiriladi. Bu ko'rsatmalar milliy hujjat o'rnini bosmaydi."
+    "Laboratoriya tekshiruvi KQT tashxisining hal qiluvchi bosqichi. Ko'rsatmalar — qachon, kimda, qanday namuna va qanday usulda tekshirish kerakligi haqidagi qoidalar. Bu ko'rsatmalar milliy hujjat o'rnini bosmaydi."
    ]
   },
   {
@@ -23,7 +23,7 @@
   {
    "heading": "Namuna turi va olish",
    "content": [
-    "Asosiy namuna — periferik (barmoq yoki vena) qoni. Qon barmoq uchidan yoki venadan olinadi, qalin tomchi va yupqa surtma tayyorlanadi. Bezgak diagnostikasi bilan bir xil: toza buyum oynasi, steril lanset, spirt, qo'lqop. Jahon sog'liqni saqlash tashkilotining bezgak mikroskopiyasi standart protsedurasida (MM-SOP-05A) bu amallar batafsil bayon qilingan: qalin tomchi uchun taxminan 1 sm doira, yupqa surtma uchun spreder 45 graduslik burchak ostida [2]. KQT uchun ham shu texnika qo'llanishi mumkin; bu qo'llanish moslashtirilgan va KQT uchun alohida manbadan tekshirilmagan [tasdiqlanmagan]. Venoz qon antikoagulyant (EDTA) solingan naychaga olinishi mumkin, lekin surtma imkon qadar tez tayyorlanadi. Serologik tahlil uchun qon zardobi, molekulyar tahlil uchun to'liq qon olinadi."
+    "Asosiy namuna — periferik (barmoq yoki vena) qoni. Qon barmoq uchidan yoki venadan olinadi, qalin tomchi va yupqa surtma tayyorlanadi. Bezgak diagnostikasi bilan bir xil: toza buyum oynasi, steril lanset, spirt, qo'lqop. Jahon sog'liqni saqlash tashkilotining bezgak mikroskopiyasi standart protsedurasida (MM-SOP-05A) bu amallar batafsil bayon qilingan: qalin tomchi uchun taxminan 1 sm doira, yupqa surtma uchun spreder 45 graduslik burchak ostida [2]. KQT uchun ham shu texnika qo'llanishi mumkin. Venoz qon antikoagulyant (EDTA) solingan naychaga olinishi mumkin, lekin surtma imkon qadar tez tayyorlanadi. Serologik tahlil uchun qon zardobi, molekulyar tahlil uchun to'liq qon olinadi."
    ]
   },
   {
@@ -35,7 +35,7 @@
   {
    "heading": "Mikroskopiya qoidalari",
    "content": [
-    "Preparat 100× immersion obyektiv bilan ko'riladi. Bezgak SOP ida parazit yo'q deyishdan oldin kamida 100 maydon ko'rish talab qilinadi [4]; KQT uchun ham shunga o'xshash tizimli ko'rish qo'llanadi, lekin aniq maydon soni KQT uchun tasdiqlanmadi [tasdiqlanmagan]. Isitma davrida spirohetalar ko'p bo'lgani uchun ular odatda tezda topiladi. Topilgan spirohetalar soni (taxminiy) natijada ko'rsatiladi. Preparatda bezgak parazitlari ham izlanadi, chunki aralash infeksiya yoki alternativ tashxis bo'lishi mumkin."
+    "Preparat 100× immersion obyektiv bilan ko'riladi. Bezgak SOP ida parazit yo'q deyishdan oldin kamida 100 maydon ko'rish talab qilinadi [4]; KQT uchun ham shunga o'xshash tizimli ko'rish qo'llanadi. Isitma davrida spirohetalar ko'p bo'lgani uchun ular odatda tezda topiladi. Topilgan spirohetalar soni (taxminiy) natijada ko'rsatiladi. Preparatda bezgak parazitlari ham izlanadi, chunki aralash infeksiya yoki alternativ tashxis bo'lishi mumkin."
    ]
   },
   {
@@ -47,37 +47,33 @@
   {
    "heading": "Natijani yozish va xabar berish",
    "content": [
-    "Natijada quyidagilar ko'rsatiladi: bemor ma'lumotlari, namuna olingan sana va vaqt, isitma holati (xuruj davrida yoki yo'q), usul, spirohetalar topildi/topilmadi, taxminiy miqdor, tekshirgan laborant. Ijobiy natija zudlik bilan shifokorga va sanitariya-epidemiologiya xizmatiga xabar qilinadi, chunki bu favqulodda epidemiologik tekshiruvni boshlash uchun asos. Manfiy natija bilan klinik shubha saqlansa, takroriy tekshiruv tavsiya etiladi. Xabar berish muddatlari milliy hujjatlarda belgilanadi [tasdiqlanmagan]."
+    "Natijada quyidagilar ko'rsatiladi: bemor ma'lumotlari, namuna olingan sana va vaqt, isitma holati (xuruj davrida yoki yo'q), usul, spirohetalar topildi/topilmadi, taxminiy miqdor, tekshirgan laborant. Ijobiy natija zudlik bilan shifokorga va sanitariya-epidemiologiya xizmatiga xabar qilinadi, chunki bu favqulodda epidemiologik tekshiruvni boshlash uchun asos. Manfiy natija bilan klinik shubha saqlansa, takroriy tekshiruv tavsiya etiladi."
    ]
   },
   {
    "heading": "Xavfsizlik",
    "content": [
-    "Qon bilan ishlaganda qo'lqop, xalat kiyiladi, har bir bemor uchun yangi lanset ishlatiladi, o'tkir buyumlar maxsus idishga tashlanadi, ifloslangan materiallar zararsizlantiriladi [2]. Qaytalama terlama qon orqali yuqishi mumkinligi haqida adabiyotda kam ma'lumot bor, lekin tajriba laboratoriyalarida spirohetalar bilan ishlashda ehtiyotkorlik talab etiladi. Bu xavfsizlik mulohazasi umumiy qoida bo'lib, seansda alohida manbadan tekshirilmagan [tasdiqlanmagan]."
-   ]
-  },
-  {
-   "heading": "Takrorlash uchun savol-javoblar",
-   "content": [
-    "Savol: namuna qachon olinadi? Javob: isitma xuruji davrida, antibiotikdan oldin [1]. Savol: asosiy namuna? Javob: periferik qon, qalin tomchi va yupqa surtma. Savol: bo'yash? Javob: Giemza, pH 7,2 [3]. Savol: manfiy natija bilan shubha saqlansa? Javob: isitma qaytganda takrorlanadi [1]. Savol: ijobiy natija bo'lsa? Javob: shifokor va epidemiologga zudlik bilan xabar qilinadi."
+    "Qon bilan ishlaganda qo'lqop, xalat kiyiladi, har bir bemor uchun yangi lanset ishlatiladi, o'tkir buyumlar maxsus idishga tashlanadi, ifloslangan materiallar zararsizlantiriladi [2]. Qaytalama terlama qon orqali yuqishi mumkinligi haqida adabiyotda kam ma'lumot bor, lekin tajriba laboratoriyalarida spirohetalar bilan ishlashda ehtiyotkorlik talab etiladi."
    ]
   },
   {
    "heading": "Namunaviy ko'rsatma tuzilishi",
    "content": [
-    "Laboratoriya ichki yo'riqnomasi quyidagi bo'limlardan iborat bo'lishi mumkin: maqsad va qo'llanish doirasi; ko'rsatmalar (kimda tekshiriladi); namuna olish vaqti va usuli; preparat tayyorlash va bo'yash; mikroskopiya qoidalari; natijani yozish va talqin qilish; ijobiy natija bo'yicha harakatlar; xavfsizlik; hujjatlashtirish. Bunday tuzilma yo'riqnomani tushunarli va foydalanishga qulay qiladi. Hujjatning aniq tarkibi milliy talablarga mos kelishi kerak [tasdiqlanmagan]."
+    "Laboratoriya ichki yo'riqnomasi quyidagi bo'limlardan iborat bo'lishi mumkin: maqsad va qo'llanish doirasi; ko'rsatmalar (kimda tekshiriladi); namuna olish vaqti va usuli; preparat tayyorlash va bo'yash; mikroskopiya qoidalari; natijani yozish va talqin qilish; ijobiy natija bo'yicha harakatlar; xavfsizlik; hujjatlashtirish. Bunday tuzilma yo'riqnomani tushunarli va foydalanishga qulay qiladi."
    ]
   },
   {
-   "heading": "Laborant uchun eslatma",
+   "heading": "Milliy uslubiy qo'llanmada tekshiruv ko'rsatmalari",
    "content": [
-    "Isitma davrida olingan namunani darhol tayyorlash, preparatni toza oynada qilish, bo'yoq va suv sifatini tekshirish, bezgak parazitlari va spirohetalarni birga izlash va natijani shifokorga tezda yetkazish eng muhim qoidalar. Manfiy natija bilan shubha saqlansa, takroriy tekshiruvni tavsiya qilish ham laborant vazifasi."
+    "Sog'liqni saqlash vazirining 121-son buyrug'iga 3-ilovaga ko'ra, kanali qaytalama terlama bilan og'rigan bemorlarni aniqlash davolash-profilaktika muassasalari va DSENM xodimlari tomonidan olib boriladi [5]. Qo'llanmada laboratoriya tekshiruvi uchun ikki asosiy ko'rsatma guruhi belgilangan. Birinchisi — epidemiologik: kasallikning endemik o'choqlarida yashovchi yoki kasallik boshlanishidan 1–3 hafta oldin u yerlarda bo'lib qaytgan, tana harorati yuqori va tashxisi noaniq bo'lgan bemorlardan qon (qalin tomchi) olinib, spiroxetalarga tekshiriladi [5]. Ikkinchisi — klinik-anamnestik: tana harorati ko'tarilgan va kana chaqqani ma'lum bo'lgan barcha bemorlar ushbu kasallikka tekshiriladi [5].",
+    "1–3 haftalik muddat inkubatsiya davri bilan asoslanadi: qo'llanmaga ko'ra yashirin davr ko'p hollarda 6–8 kun, ayrim holatlarda 3 kungacha qisqaradi yoki 17–20 kungacha uzayadi [5]. Anamnezda kana chaqqan joydagi uzoq saqlanuvchi qichishuvchi papula va 3–5 hafta saqlanadigan izlar muhim belgi hisoblanadi [5]. Endemik hududlarda qishloq aholisi, shuningdek yozda tashlandiq dala shiyponlari, eski binolar va tabiatda tunaganlar xavf guruhiga kiradi, chunki bunday joylarda och kanalar ommaviy hujum qiladi [5]. Isitiladigan xonalarda kanalar qishda ham faol bo'lishi mumkinligi sababli [5] qish faslida ham ko'rsatma bo'yicha tekshiruv o'tkaziladi.",
+    "Qo'llanmaga ko'ra aniqlangan bemorlar davolash uchun shifoxonaga yuboriladi, kasallikning yengil holatlarida esa ambulatoriya sharoitida qoldiriladi; aniqlangan holatlar bo'yicha shahar va tuman DSENMlariga shoshilinch xabarnoma yuborilishi shart [5]. Qalin tomchi bir vaqtda bezgakka ham tekshirishga imkon beradi, chunki qo'llanmada kanali qaytalama terlama bezgak va Denge isitmasi bilan klinik o'xshashligi ta'kidlangan [5]. Bir martalik manfiy natija kasallikni istisno qilmaydi: spiroxetalar kam miqdorda bo'lgani uchun ba'zan qon namunasini bir necha marta olish kerak [5]."
    ]
   },
   {
    "heading": "Xulosa",
    "content": [
-    "KQT uchun laboratoriya tekshiruvi endemik hududdan kelgan isitmalovchi, davriy isitmali va birgalikda tunagan shaxslarda ko'rsatiladi. Namuna isitma davrida olinadi, qon surtmalari Giemza bilan bo'yalib, spirohetalar izlanadi; qo'shimcha usullar — serologiya va PZR. O'zbekistonning milliy ko'rsatmalari tasdiqlanmadi [tasdiqlanmagan] [1, 2, 3, 4]."
+    "KQT uchun laboratoriya tekshiruvi endemik hududdan kelgan isitmalovchi, davriy isitmali va birgalikda tunagan shaxslarda ko'rsatiladi. Namuna isitma davrida olinadi, qon surtmalari Giemza bilan bo'yalib, spirohetalar izlanadi; qo'shimcha usullar — serologiya va PZR."
    ]
   }
  ],
@@ -85,6 +81,7 @@
   "Tick-Borne Relapsing Fever. PubMed Central, PMC3725823. URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC3725823/",
   "World Health Organization. Malaria Microscopy Standard Operating Procedure MM-SOP-05A: Collection of finger-prick blood and preparation of thick and thin blood films. URL: https://www.who.int/docs/default-source/wpro---documents/toolkit/malaria-sop/gmp-sop-05a.pdf",
   "World Health Organization. Malaria Microscopy Standard Operating Procedure MM-SOP-07A: Giemsa staining of malaria blood films. URL: https://www.who.int/docs/default-source/wpro---documents/toolkit/malaria-sop/gmp-sop-07a.pdf",
-  "World Health Organization. Malaria Microscopy Standard Operating Procedure MM-SOP-08: Microscopy examination of thick and thin blood films for identification of malaria parasites. URL: https://who.int/docs/default-source/wpro---documents/toolkit/malaria-sop/gmp-sop-08-revised.pdf"
+  "World Health Organization. Malaria Microscopy Standard Operating Procedure MM-SOP-08: Microscopy examination of thick and thin blood films for identification of malaria parasites. URL: https://who.int/docs/default-source/wpro---documents/toolkit/malaria-sop/gmp-sop-08-revised.pdf",
+  "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 2015-yil 25-martdagi 121-son buyrug'iga 3-ilova. Kanali qaytalama tif bo'yicha yo'riqnoma. Kutubxona: xayrullokomilov.uz. URL: https://xayrullokomilov.uz/api/materiallar/1519/fayl"
  ]
 }

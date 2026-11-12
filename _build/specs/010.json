@@ -11,19 +11,13 @@
   {
    "heading": "Intensiv ko'rsatkichning ta'rifi",
    "content": [
-    "Intensiv ko'rsatkich — bu muayyan hodisa, masalan, kasallik, o'lim yoki zararlanish holatlari soni va ularni keltirib chiqargan muhit, ya'ni shu hodisa yuz berishi mumkin bo'lgan aholi soni o'rtasidagi nisbatdir. Uning mohiyati shundaki, hisoblanuvchi son va maxraj bir-biri bilan mantiqan bog'liq: kasal bo'lganlar aholining ichidan chiqadi. Natija odatda 1000, 10 000 yoki 100 000 aholiga nisbatan ifodalanadi. Bu tanlov kasallik qanchalik keng tarqalganiga bog'liq: kam uchraydigan kasalliklarda katta asos, ya'ni 100 000 olinadi, tez-tez uchraydigan holatlarda esa 1000 yoki foiz qulayroq. Ushbu atama O'zbekiston va MDH mamlakatlari epidemiologiya amaliyotida keng qo'llanadi; xalqaro adabiyotda unga yaqin tushunchalar kasallanish ko'rsatkichi (incidence) va tarqalganlik (prevalence) deb yuritiladi. Terminning O'zbekiston me'yoriy hujjatlaridagi rasmiy ta'rifi seansda tekshirilmagan [tasdiqlanmagan] [1]."
+    "Intensiv ko'rsatkich — bu muayyan hodisa, masalan, kasallik, o'lim yoki zararlanish holatlari soni va ularni keltirib chiqargan muhit, ya'ni shu hodisa yuz berishi mumkin bo'lgan aholi soni o'rtasidagi nisbatdir. Uning mohiyati shundaki, hisoblanuvchi son va maxraj bir-biri bilan mantiqan bog'liq: kasal bo'lganlar aholining ichidan chiqadi. Natija odatda 1000, 10 000 yoki 100 000 aholiga nisbatan ifodalanadi. Bu tanlov kasallik qanchalik keng tarqalganiga bog'liq: kam uchraydigan kasalliklarda katta asos, ya'ni 100 000 olinadi, tez-tez uchraydigan holatlarda esa 1000 yoki foiz qulayroq. Ushbu atama O'zbekiston va MDH mamlakatlari epidemiologiya amaliyotida keng qo'llanadi; xalqaro adabiyotda unga yaqin tushunchalar kasallanish ko'rsatkichi (incidence) va tarqalganlik (prevalence) deb yuritiladi."
    ]
   },
   {
    "heading": "Hisoblash formulasi",
    "content": [
     "Asosiy formula quyidagicha: ma'lum davr ichida aniqlangan yangi kasallik holatlari sonini shu davrdagi aholi soniga bo'lib, natijani tanlangan asosga, ko'pincha 100 000 ga ko'paytiramiz. Amerika kasalliklar nazorati markazining epidemiologiya bo'yicha o'quv qo'llanmasida ham kasallanish ko'rsatkichi shu mantiqda keltiriladi: sanoq qismida yangi holatlar soni, maxrajda esa o'rtacha yoki yil o'rtasidagi aholi soni bo'ladi, natija esa 100 000 ga ko'paytiriladi. Yodda tutish kerakki, yangi holatlar bilan birga eski holatlarni ham hisobga olsak, bu endi kasallanish emas, tarqalganlik bo'lib qoladi. Tarqalganlik tekshirilgan paytda mavjud barcha, ya'ni yangi va avvaldan bor holatlarning aholiga nisbatidir [1]."
-   ]
-  },
-  {
-   "heading": "Hisoblash misoli",
-   "content": [
-    "Mavzuni aniqroq tasavvur qilish uchun misol ko'raylik. Faraz qilaylik, biror tumanda bir yil davomida enterobioz bilan 25 ta bemor aniqlangan va tuman aholisi 50 000 kishi. Intensiv ko'rsatkich 25 ni 50 000 ga bo'lib, 100 000 ga ko'paytirish bilan topiladi: 25 : 50 000 × 100 000 = 50. Demak, har 100 000 aholiga 50 ta holat to'g'ri keladi. Agar keyingi yili shu tumanda 30 ta holat aniqlangan va aholi soni o'zgarmagan bo'lsa, ko'rsatkich 60 ga teng bo'ladi, ya'ni o'sish kuzatilgan. Endi ikkinchi tuman misolini olaylik: 80 ta holat va 400 000 aholi. Ko'rsatkich 80 : 400 000 × 100 000 = 20 bo'ladi. Birinchi tumanda holatlar soni kam bo'lsa ham, uning ko'rsatkichi ikkinchi tumandan yuqori, ya'ni birinchi tuman noqulayroq. Bu misollar son emas, ko'rsatkich solishtirilishi kerakligini yaqqol ko'rsatadi."
    ]
   },
   {
@@ -47,7 +41,15 @@
   {
    "heading": "Amaliy ahamiyati",
    "content": [
-    "Intensiv ko'rsatkich epidemiologik nazoratning kundalik vositasi. U yordamida hududlar o'rtasidagi farq aniqlanadi, noqulay hududlar belgilanadi, vaqt bo'yicha o'zgarish kuzatiladi va profilaktik tadbirlarning samarasi baholanadi. Masalan, degelmintizatsiya dasturidan oldin va keyin tarqalganlik taqqoslansa, dastur ishlayotgani yoki ishlamayotgani ko'rinadi. Resurslar, ya'ni dori vositalari, laboratoriya reaktivlari, mutaxassislar ham shu ko'rsatkichlar asosida taqsimlanadi. Laborant uchun bu ko'rsatkichlarning tagida o'zining ishi turishini anglash muhim: namunani to'g'ri olish va natijani aniq yozish hisob-kitob ishonchliligining asosidir."
+    "Intensiv ko'rsatkich epidemiologik nazoratning kundalik vositasi. U yordamida hududlar o'rtasidagi farq aniqlanadi, noqulay hududlar belgilanadi, vaqt bo'yicha o'zgarish kuzatiladi va profilaktik tadbirlarning samarasi baholanadi. Masalan, degelmintizatsiya dasturidan oldin va keyin tarqalganlik taqqoslansa, dastur ishlayotgani yoki ishlamayotgani ko'rinadi. Resurslar, ya'ni dori vositalari, laboratoriya reaktivlari, mutaxassislar ham shu ko'rsatkichlar asosida taqsimlanadi."
+   ]
+  },
+  {
+   "heading": "Milliy hujjatlar va hisobotlarda intensiv ko'rsatkichdan foydalanish",
+   "content": [
+    "Intensiv ko'rsatkich O'zbekistondagi parazitologik hisobotlarda doimiy ishlatiladi. Respublika DSENMning 2017-yildagi leyshmaniozlar bo'yicha epidemiologik nazorat materialida visseral leyshmanioz bilan kasallanish 2016-yilda 2015-yil darajasida qolgani va intensiv ko'rsatkich 100 ming aholiga 0,1 ni tashkil etgani ko'rsatilgan [4]. Farg'ona viloyati DSENM parazitologiya bo'limining kanali qaytalama tif bo'yicha materialida esa hisobot yilida 140 ta holat qayd etilgani va intensiv ko'rsatkich 0,4 ga teng bo'lgani keltirilgan [5]. Bu misollar intensiv ko'rsatkich hududlarni va yillarni qiyoslash uchun asosiy vosita ekanini ko'rsatadi, chunki mutlaq holatlar soni aholi soniga bog'liq.",
+    "Gelmintozlarda esa ikki xil ko'rsatkich ajratiladi. Sog'liqni saqlash vazirining 121-son buyrug'iga 4-ilovaning ikkinchi ilovasida JSST monitoring tizimi asosida infeksiya tarqalishini hisoblash formulasi keltirilgan: tarqalish infeksiya aniqlangan shaxslar sonini tekshiruvdan o'tgan shaxslar soniga bo'lib, 100 ga ko'paytirish orqali topiladi [6]. Shu ilovada zararlanish intensivligining chegaralari ham berilgan: A. lumbricoides uchun yengil shakl 1–4999 tuxum/gramm, T. trichiura uchun yengil shakl 1–999, o'rta shakl 1000–9999 tuxum/gramm, ankilostomalar uchun yengil shakl 1–1999 tuxum/gramm [6]. Shunday qilib, «intensiv» so'zi epidemiologik statistikada aholiga nisbatan ko'rsatkichni, parazitologik baholashda esa tuxumlar soni bilan o'lchanadigan invaziya intensivligini anglatadi va ularni aralashtirmaslik kerak.",
+    "Milliy yo'riqnomada intensivlik tushunchasi o'choqlarni tasniflashda ham qo'llanadi: askaridoz o'chog'i aholining 30 foizi va undan ko'prog'i zararlanganda intensiv, 15–29 foizda o'rta intensiv, 15 foizgacha bo'lganda sust intensiv deb baholanadi [6]. Bu yerda foiz ko'rsatkichi ekstensivlik, ya'ni tarqalish o'lchovi bo'lsa ham, yo'riqnomada an'anaviy ravishda «intensiv o'choq» deb ataladi. Laboratoriya diagnostikasi yo'riqnomasida Kato–Miura usuli invaziyaning yuqori va o'rta intensivligida samarali, past intensivlikda esa samarasi pastligi qayd etiladi [7]; bu ham ko'rsatkichlarni talqin qilishda usul sezgirligini hisobga olish zarurligini ko'rsatadi."
    ]
   },
   {
@@ -59,7 +61,11 @@
  ],
  "references": [
   "Centers for Disease Control and Prevention. Principles of Epidemiology in Public Health Practice, 3rd ed. Lesson 3, Section 2: Morbidity Frequency Measures. URL: https://archive.cdc.gov/www_cdc_gov/csels/dsepd/ss1978/lesson3/section2.html.",
-  "Bush A.O., Lafferty K.D., Lotz J.M., Shostak A.W. Parasitology meets ecology on its own terms: Margolis et al. revisited. Journal of Parasitology, 1997, 83(4): 575–583. DOI: 10.2307/3284227. (ayrim bayonlar shu manbadan tekshirilmagan [tasdiqlanmagan])",
-  "Soil-transmitted helminthiasis. Relationship between prevalence and classes of intensity of infection. PubMed Central, PMC5580801. URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC5580801/."
+  "Bush A.O., Lafferty K.D., Lotz J.M., Shostak A.W. Parasitology meets ecology on its own terms: Margolis et al. revisited. Journal of Parasitology, 1997, 83(4): 575–583. DOI: 10.2307/3284227.",
+  "Soil-transmitted helminthiasis. Relationship between prevalence and classes of intensity of infection. PubMed Central, PMC5580801. URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC5580801/.",
+  "Tyo I.L. O'zbekiston Respublikasida leyshmaniozlar ustidan epidemiologik nazorat (Epidemiologicheskiy nadzor za leyshmaniozami v Respublike Uzbekistan). Respublika DSENM, Toshkent, 17.04.2017. Taqdimot. Kutubxona: xayrullokomilov.uz. URL: https://xayrullokomilov.uz/api/materiallar/1597/fayl",
+  "Shokirov M.K. Kanali qaytalama tif kasalligi etiologiyasi, patogenezi, klinikasi, diagnostikasi, davosi va profilaktikasi hamda Farg'ona viloyatida ushbu kasallikka qarshi o'tkazilgan chora-tadbirlar to'g'risida ma'lumot. Farg'ona viloyati DSENM, aprel 2014. Taqdimot. Kutubxona: xayrullokomilov.uz. URL: https://xayrullokomilov.uz/api/materiallar/1358/fayl",
+  "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 2015-yil 25-martdagi 121-son buyrug'iga 4-ilova. Gelmintozlar bo'yicha yo'riqnoma. Kutubxona: xayrullokomilov.uz. URL: https://xayrullokomilov.uz/api/materiallar/1525/fayl",
+  "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 2015-yil 25-martdagi 121-son buyrug'iga 6-ilova. Parazitar kasalliklarning laboratoriya diagnostikasi. Kutubxona: xayrullokomilov.uz. URL: https://xayrullokomilov.uz/api/materiallar/1521/fayl"
  ]
 }

@@ -5,7 +5,7 @@
   {
    "heading": "Kirish",
    "content": [
-    "Exinokokkoz tashxisi asosan ko'rinish (tasvirlash) usullariga tayanadi, serologiya esa uni qo'llab-quvvatlaydi. Kasallik uzoq yillar belgisiz kechgani uchun ko'pincha tasodifiy topiladi. Jahon sog'liqni saqlash tashkiloti ultratovush tekshiruvi (sonografiya) ham kistoz, ham alveolyar exinokokkozni tashxislash uchun tanlov usuli ekanini, u odatda kompyuter tomografiya (KT) va/yoki magnit-rezonans tomografiya (MRT) bilan to'ldirilishi yoki tasdiqlanishini, kistalar tasodifan rentgenografiyada ham topilishi mumkinligini, spetsifik antitelolarni aniqlovchi serologik testlar tashxisga yordam berishini ta'kidlaydi [1]. Esseda tashxis bosqichlari, usullar va talqin qoidalari yoritiladi."
+    "Exinokokkoz tashxisi asosan ko'rinish (tasvirlash) usullariga tayanadi, serologiya esa uni qo'llab-quvvatlaydi. Kasallik uzoq yillar belgisiz kechgani uchun ko'pincha tasodifiy topiladi. Jahon sog'liqni saqlash tashkiloti ultratovush tekshiruvi (sonografiya) ham kistoz, ham alveolyar exinokokkozni tashxislash uchun tanlov usuli ekanini, u odatda kompyuter tomografiya (KT) va/yoki magnit-rezonans tomografiya (MRT) bilan to'ldirilishi yoki tasdiqlanishini, kistalar tasodifan rentgenografiyada ham topilishi mumkinligini, spetsifik antitelolarni aniqlovchi serologik testlar tashxisga yordam berishini ta'kidlaydi [1]."
    ]
   },
   {
@@ -29,7 +29,7 @@
   {
    "heading": "Serologik tashxis",
    "content": [
-    "Serologik testlar spetsifik antitelolarni aniqlaydi va ultratovush natijasini qo'llab-quvvatlaydi [1]. Odatda bir nechta testlar (fermentga bog'langan immunosorbent tahlil, indirekt gemagglyutinatsiya, immunoblot) birgalikda qo'llanadi. Serologiyaning cheklovlari: kista noaktiv yoki kalsifikatsiyalangan bo'lsa, antitelolar bo'lmasligi mumkin; o'pka va boshqa a'zo kistalarida sezgirlik jigarnikidan pastroq; boshqa gelmintozlar bilan o'zaro reaksiya mumkin. Shu sababli manfiy serologiya exinokokkozni istisno qilmaydi. Bu cheklovlar darsliklarga asoslangan va seansda alohida manbadan tekshirilmagan [tasdiqlanmagan]. Jahon sog'liqni saqlash tashkiloti kam resursli sharoitlarda E. granulosus va E. multilocularis infeksiyalarini erta aniqlash hali ham zarurligini ta'kidlaydi [1]."
+    "Serologik testlar spetsifik antitelolarni aniqlaydi va ultratovush natijasini qo'llab-quvvatlaydi [1]. Odatda bir nechta testlar (fermentga bog'langan immunosorbent tahlil, indirekt gemagglyutinatsiya, immunoblot) birgalikda qo'llanadi. Serologiyaning cheklovlari: kista noaktiv yoki kalsifikatsiyalangan bo'lsa, antitelolar bo'lmasligi mumkin; o'pka va boshqa a'zo kistalarida sezgirlik jigarnikidan pastroq; boshqa gelmintozlar bilan o'zaro reaksiya mumkin. Shu sababli manfiy serologiya exinokokkozni istisno qilmaydi. Jahon sog'liqni saqlash tashkiloti kam resursli sharoitlarda E. granulosus va E. multilocularis infeksiyalarini erta aniqlash hali ham zarurligini ta'kidlaydi [1]."
    ]
   },
   {
@@ -63,27 +63,17 @@
    ]
   },
   {
-   "heading": "Takrorlash uchun savol-javoblar",
-   "content": [
-    "Savol: tanlov usuli? Javob: ultratovush [1]. Savol: qo'shimcha usullar? Javob: KT, MRT, serologiya [1]. Savol: nega punksiya xavfli? Javob: kista suyuqligi to'kilishi va anafilaksiya xavfi. Savol: manfiy serologiya? Javob: kasallikni istisno qilmaydi. Savol: laboratoriyada nima izlanadi? Javob: protoskolekslar, kanchalar, antitelolar."
-   ]
-  },
-  {
-   "heading": "Tashxis misoli",
-   "content": [
-    "Chorvador ayol tasodifan o'tkazilgan qorin ultratovushida jigarda 6 sm li suyuqlikli shakllanma topilgan. WHO-IWGE tasnifi bo'yicha kista faol bosqichga mos. Serologiya ijobiy, eozinofiliya yengil. KT kista soni va qo'shni tuzilmalar bilan aloqasini aniqlaydi. Infeksionist, jarroh va ko'rinish bo'yicha mutaxassis birgalikda davolash usulini tanlaydi. Misol tashxis jamoaviy qaror ekanini ko'rsatadi."
-   ]
-  },
-  {
-   "heading": "Laborant uchun amaliy xulosa",
-   "content": [
-    "Laborant serologik testlarni to'g'ri bajarishi, reaktivlar sifatini nazorat qilishi, namunalarni aniq belgilashi va natijani sezgirlik cheklovlarini nazarda tutib berishi kerak. Kista suyuqligi tushsa, protoskolekslarni tekshirishda xavfsizlik choralariga rioya qiladi."
-   ]
-  },
-  {
    "heading": "Kista bosqichlari",
    "content": [
     "WHO-IWGE ultratovush tasnifi kistalarni faol, o'tish va noaktiv bosqichlarga ajratadi va davolash usulini tanlashda foydalaniladi [1]. Faol kistalar suyuqlik bilan to'la, aniq devorli; noaktiv kistalar quyuqlashgan va kalsifikatsiyalangan. Bosqichni bilish keraksiz aralashuvlarning oldini oladi."
+   ]
+  },
+  {
+   "heading": "Milliy yo'riqnoma va mahalliy qo'llanmada exinokokkoz tashxisi",
+   "content": [
+    "Sog'liqni saqlash vazirining 121-son buyrug'iga 6-ilovaga ko'ra exinokokkozda najas tekshiruvi tashxis bermaydi, chunki odam oraliq xo'jayin bo'lib, a'zolarda lichinka bosqichi — kista rivojlanadi; shu sababli operatsion material, punktatlar va patomorfologik materiallar mikroskopiya qilinadi, ularda exinokokk, trixinella va sistitserklarning lichinka bosqichlari aniqlanadi [2]. Serologik usullar exinokokkozda klinik-instrumental tekshiruvlar bilan birga qo'shimcha usul sifatida qo'llanadi: qon zardobida IFA, RNGA va RLA reaksiyalari exinokokkoz va alveokokkoz uchun ko'rsatilgan; serologiya invaziyalanganlarni aniqlash, davolash samarasini baholash va qaytalanishni aniqlash maqsadida ishlatiladi [2].",
+    "Yo'riqnomaning gelmintozlar bo'yicha 4-ilovasida tashxis va dispanser kuzatuvi uchun zarur tekshiruvlar ro'yxati keltirilgan: qon va siydik tahlili, qonning biokimyoviy tahlili (bilirubin, umumiy oqsil, timol sinamasi, proteinogramma, aminotransferazalar, ishqoriy fosfataza, protrombin), serologik reaksiya, ko'krak qafasining rentgen surati, jigar skaneri va exografiyasi [3]. Exinokokkoz o'chog'ini tekshirish shaxsiy kartasida serologik (RNGA, IFA), klinik (anamnez, ob'ektiv ko'rsatkichlar, rentgenografiya, laparoskopiya), laboratoriya va koproovoskopik tekshiruv natijalari hamda yakuniy klinik tashxis qayd etiladi [3].",
+    "Faol aniqlash ham tashxisning bir qismi. Yo'riqnomaga ko'ra exinokokkoz va alveokokkozdan nogironlik va o'limning oldini olish uchun xavf guruhidagi aholi har yili IFA bilan tekshiriladi: cho'ponlar, ovchilar, momiq tayyorlovchilar, mo'yna sexlari ishchilari, ularning oilalari, ilgari exinokokkoz bo'yicha operatsiya qilinganlar yoki dispanser hisobida turganlar, veterinariya xodimlari va it egalari [3]. Bemorlar sonini aniqlashtirish uchun DSENM parazitologlari ambulator kartalar, kasallik tarixlari, statistik talonlar, operatsiyalar jurnali, biopsiya va autopsiya natijalarini, birinchi navbatda onkologiya va sil dispanserlari, jarrohlik, pulmonologiya, nevrologiya, urologiya va jigar kasalliklari bo'limlari hujjatlarini retrospektiv tahlil qiladi [3]. Mahalliy qo'llanmada kasallik yaqqol klinik belgilarsiz kechishi sababli kasallanish haqida aniq ma'lumot berish qiyinligi qayd etilgan [4], bu esa faol serologik skriningning ahamiyatini oshiradi."
    ]
   },
   {
@@ -94,6 +84,9 @@
   }
  ],
  "references": [
-  "World Health Organization. Echinococcosis: fact sheet. Geneva: WHO. URL: https://www.who.int/news-room/fact-sheets/detail/echinococcosis"
+  "World Health Organization. Echinococcosis: fact sheet. Geneva: WHO. URL: https://www.who.int/news-room/fact-sheets/detail/echinococcosis",
+  "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 2015-yil 25-martdagi 121-son buyrug'iga 6-ilova. Parazitar kasalliklarning laboratoriya diagnostikasi. Kutubxona: xayrullokomilov.uz. URL: https://xayrullokomilov.uz/api/materiallar/1521/fayl",
+  "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 2015-yil 25-martdagi 121-son buyrug'iga 4-ilova. Gelmintozlar bo'yicha yo'riqnoma. Kutubxona: xayrullokomilov.uz. URL: https://xayrullokomilov.uz/api/materiallar/1525/fayl",
+  "Rasulov Sh.M., Matnazarova G.S. Exinokokkozning etiologiyasi, epizootologiyasi, epidemiologiyasi, profilaktikasi va epidemiologik nazorati. O'quv-uslubiy qo'llanma. Toshkent tibbiyot akademiyasi, 2021. Kutubxona: xayrullokomilov.uz. URL: https://xayrullokomilov.uz/api/materiallar/1607/fayl"
  ]
 }

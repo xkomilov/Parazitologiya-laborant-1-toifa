@@ -5,7 +5,7 @@
   {
    "heading": "Kirish",
    "content": [
-    "Savolga javob berishdan oldin bir ogohlantirish zarur: O'zbekiston bo'yicha bezgak qo'zg'atuvchilari turlarining rasmiy ro'yxatini men mazkur seansda milliy hujjatlardan tekshira olmadim. Shu sababli aniq son va ro'yxatni «tasdiqlangan» deb ko'rsatmayman. Ammo uni tushunish uchun zarur bo'lgan umumiy ilmiy asos mavjud: Jahon sog'liqni saqlash tashkiloti odamda bezgak qo'zg'atadigan beshta turni ko'rsatadi [1]. Quyida shu turlar O'zbekiston sharoitida qanday ahamiyatga ega ekani muhokama qilinadi, bu muhokama esa bezgakdan holi hududda import qilingan holatlar kontekstida olinadi."
+    "Jahon sog'liqni saqlash tashkiloti odamda bezgak qo'zg'atadigan beshta turni ko'rsatadi [1]. Quyida shu turlar O'zbekiston sharoitida qanday ahamiyatga ega ekani muhokama qilinadi, bu muhokama esa bezgakdan holi hududda import qilingan holatlar kontekstida olinadi."
    ]
   },
   {
@@ -17,7 +17,7 @@
   {
    "heading": "Plasmodium vivax",
    "content": [
-    "Markaziy Osiyoning mo''tadil iqlimida bezgak tarixan asosan uch kunlik bezgak, ya'ni P. vivax bilan bog'liq bo'lgan, deb ko'p manbalarda aytiladi; bu ma'lumot mazkur seansda alohida manbadan tekshirilmagan [tasdiqlanmagan]. Biologik sabab tushunarli: P. vivax sovuqroq haroratda ham chivin ichida rivojlana oladi va jigarda uxlab yotuvchi shakllar hosil qilib, qish davrini «o'tkazib» yuboradi, keyin esa yozda qaytalanadi [1]. Bu xususiyat uni mo''tadil mintaqalar uchun eng moslashgan tur qiladi. Bezgakdan holi bo'lgan O'zbekistonda ham uch kunlik bezgak bilan tashqaridan kelganlar orasida uchrashi mumkin va ular jigardagi gipnozoitlar tufayli kech qaytalanishi ehtimoli bor."
+    "Biologik sabab tushunarli: P. vivax sovuqroq haroratda ham chivin ichida rivojlana oladi va jigarda uxlab yotuvchi shakllar hosil qilib, qish davrini «o'tkazib» yuboradi, keyin esa yozda qaytalanadi [1]. Bu xususiyat uni mo''tadil mintaqalar uchun eng moslashgan tur qiladi. Bezgakdan holi bo'lgan O'zbekistonda ham uch kunlik bezgak bilan tashqaridan kelganlar orasida uchrashi mumkin va ular jigardagi gipnozoitlar tufayli kech qaytalanishi ehtimoli bor."
    ]
   },
   {
@@ -29,7 +29,7 @@
   {
    "heading": "Plasmodium malariae va Plasmodium ovale",
    "content": [
-    "P. malariae, ya'ni to'rt kunlik bezgak, kam uchraydigan tur; u tropik va subtropik mintaqalarda uchraydi. P. ovale asosan Afrikada tarqalgan va klinik jihatdan uch kunlik bezgakka o'xshaydi. Ikkalasi ham O'zbekistonda asosan import qilingan holatlar sifatida uchrashi mumkin, ammo bu fikr mazkur seansda milliy statistikadan tekshirilmagan [tasdiqlanmagan]. P. ovale ham jigarda uxlab yotuvchi shakllarga ega bo'lgani uchun uni davolashda primakvin qo'shiladi [1]."
+    "P. malariae, ya'ni to'rt kunlik bezgak, kam uchraydigan tur; u tropik va subtropik mintaqalarda uchraydi. P. ovale asosan Afrikada tarqalgan va klinik jihatdan uch kunlik bezgakka o'xshaydi. P. ovale ham jigarda uxlab yotuvchi shakllarga ega bo'lgani uchun uni davolashda primakvin qo'shiladi [1]."
    ]
   },
   {
@@ -57,12 +57,6 @@
    ]
   },
   {
-   "heading": "Savolga qanday javob berish mumkin",
-   "content": [
-    "Imtihon vaziyatida bu savolga ehtiyotkor javob berish tavsiya etiladi: dunyoda odamda bezgak qo'zg'atuvchi beshta tur bor; O'zbekiston bezgakdan holi deb sertifikatlangan, shuning uchun hozirgi holatlar asosan import qilinadi; tarixan mahalliy tur uch kunlik bezgak qo'zg'atuvchisi bo'lgan; amaldagi rasmiy ro'yxat esa milliy hujjatlardan olinishi kerak. Bunday javob ham aniq, ham noaniq ma'lumotni «aniq» deb ko'rsatmaydi."
-   ]
-  },
-  {
    "heading": "Turlar bo'yicha davolash tafovuti",
    "content": [
     "Turni bilish davolashni belgilaydi: P. falciparum uchun artemizinin asosidagi kombinatsiyalangan terapiya, P. vivax va P. ovale uchun qaytalanishning oldini olish maqsadida primakvin qo'shilishi, xlorokin esa faqat P. vivax hali sezgir bo'lgan joylarda tavsiya etiladi [1]. Shuning uchun tur noto'g'ri aniqlansa, davolash ham noto'g'ri bo'ladi."
@@ -75,13 +69,24 @@
    ]
   },
   {
+   "heading": "Mahalliy manbalarda O'zbekiston uchun ahamiyatli turlar",
+   "content": [
+    "Mahalliy uslubiy qo'llanmada odamda kasallik qo'zg'atuvchi to'rt tur ko'rsatiladi: P. vivax (uch kunlik bezgak), P. malariae (to'rt kunlik bezgak), P. falciparum (tropik bezgak) va asosan tropik Afrika va Okeaniyada kuzatiladigan P. ovale [2]. Qo'llanma bu turlarning O'zbekiston uchun ahamiyati teng emasligini ko'rsatadi. P. vivax bo'yicha mualliflar O'zbekistonni qisqa yashirin davrdan keyingi ikkilamchi xurujlar va uzoq yashirin davrdan keyingi kechki ko'rinishlar uchraydigan zonaga kiritadi, hudud ichida esa shimoldan janubga tomon uzoq inkubatsiyali shakllar ulushi pasayadi [2]. Shuningdek, O'rta Osiyo sharoitida uch kunlik bezgakning mahalliy tarqalish ehtimoli yuqori bo'lgani qayd etiladi [2].",
+    "Tropik bezgak to'g'risida qo'llanmada boshqacha xulosa beriladi: u O'rta Osiyoda kam yuqqani sababli tashxisda bemorning yaqin kunlarda tropik mamlakatlarga yoki Janubiy Tojikistonga borgani hisobga olinadi [2]. Bundan tashqari, Afrikadan keltirilgan P. falciparum MDH hududidagi mahalliy Anopheles chivinlarini zararlay olmasligi, Janubi-Sharqiy Osiyo va Afrikaning ayrim mintaqalarida esa dorilarga chidamli shtammlar keng tarqalgani ko'rsatilgan [2]. Demak, mahalliy yuqish nuqtai nazaridan asosiy tur P. vivax bo'lib, P. falciparum asosan chetdan keltirilgan holatlarda uchraydi.",
+    "Tashuvchi turlar ham shu manzarani to'ldiradi. JSST Yevropa mintaqasi entomologik nazorat materialida An. superpictus Markaziy Osiyo respublikalarining tog' va tog' oldi hududlarida asosiy tashuvchi ekani, An. artemievi esa Shimoliy Tojikiston, Qirg'iziston, O'zbekiston va Janubiy Qozog'istonda tarqalgani va sholi cheklari, ko'lmak va zovurlarda rivojlanishi ko'rsatiladi [3]. Milliy yo'riqnomaga ko'ra, aniqlangan har bir holat tashib keltirilgan, mahalliy, emlangan yoki qaytalangan deb tasniflanadi va barcha musbat preparatlar 24 soat ichida Respublika DSENMda qayta tekshiriladi [4]; bu tartib turni to'g'ri aniqlashni ta'minlaydi."
+   ]
+  },
+  {
    "heading": "Xulosa",
    "content": [
-    "Dunyoda odamda bezgak qo'zg'atadigan beshta tur ma'lum: P. falciparum, P. vivax, P. malariae, P. ovale va P. knowlesi [1]. O'zbekistonda uchraydigan turlarning rasmiy ro'yxati mazkur seansda tasdiqlanmadi [tasdiqlanmagan]; tarixan P. vivax mahalliy tur bo'lgani aytiladi, qolganlari esa import qilingan holatlar bilan bog'liq deb hisoblanadi."
+    "Dunyoda odamda bezgak qo'zg'atadigan beshta tur ma'lum: P. falciparum, P. vivax, P. malariae, P. ovale va P. knowlesi [1]."
    ]
   }
  ],
  "references": [
-  "World Health Organization. Malaria: fact sheet. Geneva: WHO. URL: https://www.who.int/news-room/fact-sheets/detail/malaria"
+  "World Health Organization. Malaria: fact sheet. Geneva: WHO. URL: https://www.who.int/news-room/fact-sheets/detail/malaria",
+  "Umirov S.E., Magzumov H.B., Mirzaboyev D.S. va boshq. Bezgakning etiologiyasi, klinikasi, tashxisoti, epidemiologiyasi, epidemiologik nazorati va profilaktikasi. Uslubiy qo'llanma. Toshkent tibbiyot akademiyasi, 2009. Kutubxona: xayrullokomilov.uz. URL: https://xayrullokomilov.uz/api/materiallar/1547/fayl",
+  "JSST tavsiyasi bo'yicha entomologik nazorat (Entomologicheskiy nadzor po rekomendatsii VOZ). O'quv taqdimoti. Kutubxona: xayrullokomilov.uz. URL: https://xayrullokomilov.uz/api/materiallar/1596/fayl",
+  "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 2015-yil 25-martdagi 121-son buyrug'iga 1-ilova. Aholi o'rtasida bezgak kasalligining profilaktikasi va chetdan kirib kelishini oldini olish chora-tadbirlari to'g'risidagi yo'riqnoma. Kutubxona: xayrullokomilov.uz. URL: https://xayrullokomilov.uz/api/materiallar/1523/fayl"
  ]
 }

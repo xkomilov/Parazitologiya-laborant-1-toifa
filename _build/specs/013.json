@@ -5,7 +5,7 @@
   {
    "heading": "Kirish",
    "content": [
-    "Parazit odamga turli yo'llar bilan o'tadi: ba'zilari ifloslangan ovqat bilan, ba'zilari teri orqali, ba'zilari esa qon so'ruvchi hasharotning chaqishi bilan. Aynan oxirgi yo'l transmissiv yo'l deb ataladi. U tabiatda eng murakkab yuqish mexanizmlaridan biri bo'lib, qo'zg'atuvchi, tashuvchi (vektor), odam va tashqi muhit omillarining birgalikdagi ishtirokini talab qiladi. Esseda transmissiv yo'lning mohiyati, turlari, misollari va profilaktikasi yoritiladi."
+    "Parazit odamga turli yo'llar bilan o'tadi: ba'zilari ifloslangan ovqat bilan, ba'zilari teri orqali, ba'zilari esa qon so'ruvchi hasharotning chaqishi bilan. Aynan oxirgi yo'l transmissiv yo'l deb ataladi. U tabiatda eng murakkab yuqish mexanizmlaridan biri bo'lib, qo'zg'atuvchi, tashuvchi (vektor), odam va tashqi muhit omillarining birgalikdagi ishtirokini talab qiladi."
    ]
   },
   {
@@ -39,12 +39,6 @@
    ]
   },
   {
-   "heading": "Boshqa misollar va tashuvchilar",
-   "content": [
-    "Transmissiv yo'l bilan yuqadigan boshqa parazitar kasalliklarga misol sifatida tripanosomozlar (uyqu kasalligi va Chagas kasalligi), filyariozlar (chivinlar yoki mayda pashshalar orqali), onxoserkoz (qora pashshalar orqali) va tripanosomoz kiradi. Bu yerda tashuvchilar ham turlicha: chivin, chivincha, kana, qora pashsha, tsetse pashshasi, kissing bug. Umumiy qoida: har bir kasallik uchun tashuvchi tur aniq, shuning uchun tashuvchining turini bilish kasallikni nazorat qilishda hal qiluvchi ahamiyatga ega."
-   ]
-  },
-  {
    "heading": "Transmissiv yo'lga ta'sir qiluvchi omillar",
    "content": [
     "Transmissiv kasalliklarning tarqalishi bir necha omilga bog'liq. Birinchisi — tashuvchi sonining zichligi: chivin yoki chivincha qancha ko'p bo'lsa, ehtimol shuncha yuqori. Ikkinchisi — iqlim: harorat va namlik parazitning tashuvchi ichida rivojlanish tezligiga ta'sir qiladi. Uchinchisi — odamlar va tashuvchilar o'rtasidagi aloqa: uy-joyning holati, tashqarida uxlash odati, kechki vaqtda ochiq kiyim bilan yurish. Jahon sog'liqni saqlash tashkiloti leyshmaniozda yomon uy-joy sharoitlari, axlatning yig'ilishi, yerda yoki tashqarida uxlash xavfni oshirishini qayd etadi [3]."
@@ -69,6 +63,14 @@
    ]
   },
   {
+   "heading": "Milliy yo'riqnomalarda transmissiv kasalliklar",
+   "content": [
+    "Sog'liqni saqlash vazirining 121-son buyrug'iga 1-ilovada bezgak antroponoz transmissiv protozoy kasalliklar guruhiga kiritilgan bo'lib, qo'zg'atuvchilari Anopheles turkumiga mansub chivin chaqishi orqali yuqishi ko'rsatilgan [5]. Yo'riqnoma transmissiv yo'lning chegaradan o'tishini ham hisobga oladi: bezgak bo'yicha epidemik bo'lgan qo'shni davlatlardan zararlangan chivinlar chegaradosh aholi punktlariga uchib kelishi mumkinligi sababli 3 km li chegaradosh hududlarda chivinlarga qarshi kurash va doimiy entomologik nazorat o'tkaziladi, aeroport, temir yo'l stansiyalari va avtotransport to'xtash joylarida transport vositalari orqali zararlangan chivinlar kirib kelishining oldini olish choralari ko'riladi [5]. Bezgak bo'yicha uslubiy qo'llanmada P. vivax uchun samarali zararlanish mavsumi o'rtacha sutkalik harorat 16 °C dan yuqori bo'lgan kunlar bilan, P. falciparum uchun esa 18 °C chegara bilan belgilanishi qayd etilgan [6].",
+    "Teri va visseral leyshmanioz bo'yicha 2-ilova transmissiv yo'lning ikkinchi namunasini beradi. Yo'riqnomaga ko'ra O'zbekistonda iskabtoparlarning 9 turi uchraydi, visseral leyshmaniozning tashuvchisi asosan Phlebotomus longiductus va Ph. angustus, zoonoz teri leyshmaniozi o'choqlarida esa epidemiologik ahamiyatga ega turlar Ph. papatasi va Ph. caucasicus hisoblanadi [7]. Zoonoz teri leyshmaniozining asosiy manbalari katta qum sichqoni va qizil dumli qum sichqoni bo'lib, antroponoz teri leyshmaniozida manba bemor odam, tashuvchi esa Ph. sergenti dir [7]. Shu sababli leyshmanioz profilaktikasi deratizatsiya va iskabtoparlarga qarshi insektitsid ishlovini o'z ichiga oladi [7].",
+    "Kanali qaytalama terlama bo'yicha 3-ilovada kasallik zoonoz, transmissiv, tabiiy o'choqli kasallik sifatida ta'riflanadi: qo'zg'atuvchi borreliyalar bo'lib, ularni Argasidae oilasi Ornithodoros turkumiga mansub kanalar tashiydi [8]. Yo'riqnomaga ko'ra odamlar uchun yagona kasallik manbai ana shu kanalar bo'lib, ular nafaqat tashuvchi, balki qo'zg'atuvchining asosiy rezervuari hamdir: bir umr kasallikni tashib yuradi va uni tuxumlari orqali keyingi avlodlarga o'tkazadi, kasallik esa kana chaqqanda kana so'lagi bilan yaraga qo'zg'atuvchi tushishi yo'li bilan yuqadi [8]. O'zbekistonda kasallik tog' va tog'oldi hududlarida, asosiy tashuvchi O. papillipes kanalari yashaydigan joylarda keng tarqalgan [8]. Bu uch kasallik transmissiv yo'lning maxsus (biologik) turiga kiradi, chunki qo'zg'atuvchi tashuvchi organizmida rivojlanadi yoki ko'payadi."
+   ]
+  },
+  {
    "heading": "Xulosa",
    "content": [
     "Transmissiv yo'l — qo'zg'atuvchining qon so'ruvchi bo'g'imoyoqli tashuvchi orqali o'tishi bo'lib, bezgak, leyshmanioz, qaytalama terlama va boshqa kasalliklarda uchraydi. Uni bilish laborant va epidemiologga tashuvchini aniqlash hamda profilaktika choralarini to'g'ri tanlash imkonini beradi [1, 2, 3, 4]."
@@ -79,6 +81,10 @@
   "Cox F.E.G. History of human parasitology. Clinical Microbiology Reviews, 2002, 15(4): 595–612. DOI: 10.1128/CMR.15.4.595-612.2002",
   "World Health Organization. Malaria: fact sheet. Geneva: WHO. URL: https://www.who.int/news-room/fact-sheets/detail/malaria",
   "World Health Organization. Leishmaniasis: fact sheet. Geneva: WHO. URL: https://www.who.int/news-room/fact-sheets/detail/leishmaniasis",
-  "Pathogenesis of Relapsing Fever. PubMed Central, PMC8756760. URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC8756760/ (annotatsiya o'qilgan; to'liq matn o'qilmagan)"
+  "Pathogenesis of Relapsing Fever. PubMed Central, PMC8756760. URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC8756760/",
+  "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 2015-yil 25-martdagi 121-son buyrug'iga 1-ilova. Aholi o'rtasida bezgak kasalligining profilaktikasi va chetdan kirib kelishini oldini olish chora-tadbirlari to'g'risidagi yo'riqnoma. Kutubxona: xayrullokomilov.uz. URL: https://xayrullokomilov.uz/api/materiallar/1523/fayl",
+  "Umirov S.E., Magzumov H.B., Mirzaboyev D.S. va boshq. Bezgakning etiologiyasi, klinikasi, tashxisoti, epidemiologiyasi, epidemiologik nazorati va profilaktikasi. Uslubiy qo'llanma. Toshkent tibbiyot akademiyasi, 2009. Kutubxona: xayrullokomilov.uz. URL: https://xayrullokomilov.uz/api/materiallar/1547/fayl",
+  "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 2015-yil 25-martdagi 121-son buyrug'iga 2-ilova. Leyshmanioz bo'yicha yo'riqnoma. Kutubxona: xayrullokomilov.uz. URL: https://xayrullokomilov.uz/api/materiallar/1524/fayl",
+  "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 2015-yil 25-martdagi 121-son buyrug'iga 3-ilova. Kanali qaytalama tif bo'yicha yo'riqnoma. Kutubxona: xayrullokomilov.uz. URL: https://xayrullokomilov.uz/api/materiallar/1519/fayl"
  ]
 }

@@ -5,7 +5,7 @@
   {
    "heading": "Kirish",
    "content": [
-    "Bezgak tashxisida ikki xil qon preparati tayyorlanadi: qalin tomchi va yupqa surtma. Ularning har biri o'z vazifasiga ega va bo'yash usuli ham o'ziga xos xususiyatlarga ega. Savolda preparatlar qanday tayyorlanishi va qanday bo'yalishi so'ralgan. Mazkur essening asosi — Jahon sog'liqni saqlash tashkilotining bezgak mikroskopiyasi bo'yicha standart protseduralari (MM-SOP-05A, 07A, 08) bo'lib, ularning matni o'qildi [1, 2, 3]. Esseda preparatlarning farqi, tayyorlash, fiksatsiya va Giemza bilan bo'yash tartibi, natijada ko'rinadigan tasvir va sifat mezonlari ketma-ket yoritiladi."
+    "Bezgak tashxisida ikki xil qon preparati tayyorlanadi: qalin tomchi va yupqa surtma. Ularning har biri o'z vazifasiga ega va bo'yash usuli ham o'ziga xos xususiyatlarga ega."
    ]
   },
   {
@@ -17,7 +17,7 @@
   {
    "heading": "Tayyorlash",
    "content": [
-    "Ikkala preparat ham barmoq uchidan olingan kapillyar qondan tayyorlanadi. Yupqa surtma uchun bitta kichik tomchi olinib, 45 graduslik burchak ostida qo'yilgan spreder oynasi bilan uzluksiz harakat orqali yoyiladi; qalin tomchi uchun esa taxminan 1 sm narida olingan ikki-uch tomchi spreder burchagi bilan aylantirib, taxminan 1 sm diametrli doira shaklida birlashtiriladi [1]. Preparatlar gorizontal holatda havoda quritiladi; tezlashtirish uchun fen past issiqlikda 30 sm masofadan 5 soniya ishlatilishi mumkin [1]. Bu bosqichlar alohida esselarda batafsil bayon qilingan."
+    "Ikkala preparat ham barmoq uchidan olingan kapillyar qondan tayyorlanadi. Yupqa surtma uchun bitta kichik tomchi olinib, 45 graduslik burchak ostida qo'yilgan spreder oynasi bilan uzluksiz harakat orqali yoyiladi; qalin tomchi uchun esa taxminan 1 sm narida olingan ikki-uch tomchi spreder burchagi bilan aylantirib, taxminan 1 sm diametrli doira shaklida birlashtiriladi [1]. Preparatlar gorizontal holatda havoda quritiladi; tezlashtirish uchun fen past issiqlikda 30 sm masofadan 5 soniya ishlatilishi mumkin [1]."
    ]
   },
   {
@@ -65,7 +65,15 @@
   {
    "heading": "Preparatlarni saqlash",
    "content": [
-    "Bo'yalgan va tekshirilgan preparatlar sifat nazorati va ikkinchi ko'rib chiqish uchun ma'lum muddat saqlanadi. Ular quruq, changdan himoyalangan qutilarda, tartib raqami bo'yicha joylashtiriladi, immersion moy ehtiyotkorlik bilan tozalanadi. Saqlash muddati milliy hujjatlarda belgilanadi va seansda tasdiqlanmadi [tasdiqlanmagan]."
+    "Bo'yalgan va tekshirilgan preparatlar sifat nazorati va ikkinchi ko'rib chiqish uchun ma'lum muddat saqlanadi. Ular quruq, changdan himoyalangan qutilarda, tartib raqami bo'yicha joylashtiriladi, immersion moy ehtiyotkorlik bilan tozalanadi."
+   ]
+  },
+  {
+   "heading": "Milliy standart operatsion muolajalarda bo'yash tartibi",
+   "content": [
+    "Respublika DSENM parazitologiya laboratoriyasining M-SOM-07 muolajasiga ko'ra, qalin tomchi va yupqa surtmani Gimza bo'yog'i bilan bo'yash ishonchli usul hisoblanadi. Gimza bo'yog'i eozin va metil ko'kidan (lazur) tashkil topgan: eozin parazit yadrosini qizil rangga, metil ko'ki esa sitoplazmani ko'k rangga bo'yaydi; turlar va donadorlikni aniq ko'rish uchun eng maqbul pH 7,2 [4]. Muolajada ikki usul ko'rsatilgan. Tezkor usulda 10 foizli bo'yoq eritmasi ishlatiladi, bir vaqtda 1–15 preparat bo'yaladi va bo'yash 8–10 daqiqa davom etadi; bu usul tezkor tashxis talab qilinadigan poliklinika va laboratoriyalarda qo'llanadi, bo'yoq ko'p sarflansa-da, tezkor xulosa xarajatni oqlaydi [4]. Sekin usulda 3 foizli eritma ishlatiladi, 20 va undan ortiq preparat bo'yaladi va bo'yash 45–60 daqiqa davom etadi; u epidemiologik tekshiruv, dala sharoiti va o'quv preparatlari uchun qulay [4].",
+    "Bo'yashdan oldin tayyorlov muolajalari bajariladi. MM-SOP-3a ga ko'ra pH 7,2 buferli suv uchun 0,7 g kaliy digidrofosfat (KH2PO4) 150 ml suvda eritiladi, unga 1 g Na2HPO4 qo'shiladi va hajm 1 litrgacha yetkaziladi [5]. Bo'yoqning ona eritmasi 3,8 g Gimza kukuni, 250 ml glitserin va jami 250 ml metanoldan qorong'i shisha idishda shisha marjonchalar bilan tayyorlanadi, 2–3 kun davomida vaqti-vaqti bilan chayqatiladi va idish yorlig'iga partiya raqami, tayyorlagan shaxs va sana yoziladi [6]. M-SOM-04 muolajasiga ko'ra 10 foizli ishchi eritma 90 ml buferga 10 ml ona eritma qo'shib, 3 foizlisi esa 97 ml buferga 3 ml bo'yoq qo'shib tayyorlanadi; har bir oyna uchun taxminan 3 ml bo'yoq kerak bo'ladi va ishchi eritma tayyorlangandan keyin 15 daqiqa ichida ishlatiladi [7].",
+    "Bo'yash jarayonida bo'yoq preparat ustiga to'g'ridan-to'g'ri quyilmaydi, sekin-asta tomiziladi; bo'yalgan preparatlar toza suv bilan ehtiyotkorlik bilan yuviladi va tik holatda quritiladi [4]. Ona eritma saqlanadigan idish ishlatishdan oldin chayqatilmaydi, aks holda surtmada bo'yoq cho'kmalari qoladi, ona eritmaga suv tushishiga yo'l qo'yilmaydi [6]."
    ]
   },
   {
@@ -78,6 +86,10 @@
  "references": [
   "World Health Organization. Malaria Microscopy Standard Operating Procedure MM-SOP-05A: Collection of finger-prick blood and preparation of thick and thin blood films. URL: https://www.who.int/docs/default-source/wpro---documents/toolkit/malaria-sop/gmp-sop-05a.pdf",
   "World Health Organization. Malaria Microscopy Standard Operating Procedure MM-SOP-07A: Giemsa staining of malaria blood films. URL: https://www.who.int/docs/default-source/wpro---documents/toolkit/malaria-sop/gmp-sop-07a.pdf",
-  "World Health Organization. Malaria Microscopy Standard Operating Procedure MM-SOP-08: Microscopy examination of thick and thin blood films for identification of malaria parasites. URL: https://who.int/docs/default-source/wpro---documents/toolkit/malaria-sop/gmp-sop-08-revised.pdf"
+  "World Health Organization. Malaria Microscopy Standard Operating Procedure MM-SOP-08: Microscopy examination of thick and thin blood films for identification of malaria parasites. URL: https://who.int/docs/default-source/wpro---documents/toolkit/malaria-sop/gmp-sop-08-revised.pdf",
+  "Bezgakka qon preparatlarini Romanovskiy–Gimza bo'yog'i bilan bo'yash. Standart operatsion protsedura. Kutubxona: xayrullokomilov.uz. URL: https://xayrullokomilov.uz/api/materiallar/2105/fayl",
+  "pH 7,2 buferli suvini tayyorlash. Standart operatsion protsedura. Kutubxona: xayrullokomilov.uz. URL: https://xayrullokomilov.uz/api/materiallar/2103/fayl",
+  "Romanovskiy–Gimza bo'yog'ini tayyorlash. Standart operatsion protsedura. Kutubxona: xayrullokomilov.uz. URL: https://xayrullokomilov.uz/api/materiallar/2114/fayl",
+  "Romanovskiy–Gimza bo'yog'ining ishchi eritmasini tayyorlash. Standart operatsion protsedura. Kutubxona: xayrullokomilov.uz. URL: https://xayrullokomilov.uz/api/materiallar/2115/fayl"
  ]
 }

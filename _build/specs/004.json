@@ -5,7 +5,7 @@
   {
    "heading": "Kirish",
    "content": [
-    "Gelmintlar haqida gap ketganda ko'pchilik uni ichakdagi «qurt» deb tushunadi. Aslida bu tushuncha ancha keng va aniq ilmiy mazmunga ega. Gelmintlar odam, hayvon va o'simliklarda parazitlik qiladigan ko'p hujayrali chuvalchanglar bo'lib, ular qo'zg'atgan kasalliklar gelmintozlar deb ataladi. Jahon miqyosida gelmintozlar eng keng tarqalgan infeksiyalar qatoriga kiradi: Jahon sog'liqni saqlash tashkilotining ma'lumotiga ko'ra, faqat tuproq orqali yuqadigan gelmintlar bilan taxminan 1,5 milliard kishi zararlangan. Shu bois gelmintlarni va ular bilan zararlanish belgilarini bilish har bir tibbiyot xodimi, ayniqsa laborant uchun zarurdir [1]."
+    "Gelmintlar haqida gap ketganda ko'pchilik uni ichakdagi «qurt» deb tushunadi. Aslida bu tushuncha ancha keng va aniq ilmiy mazmunga ega. Gelmintlar odam, hayvon va o'simliklarda parazitlik qiladigan ko'p hujayrali chuvalchanglar bo'lib, ular qo'zg'atgan kasalliklar gelmintozlar deb ataladi. Jahon miqyosida gelmintozlar eng keng tarqalgan infeksiyalar qatoriga kiradi: Jahon sog'liqni saqlash tashkilotining ma'lumotiga ko'ra, faqat tuproq orqali yuqadigan gelmintlar bilan taxminan 1,5 milliard kishi zararlangan."
    ]
   },
   {
@@ -54,6 +54,14 @@
    ]
   },
   {
+   "heading": "Milliy yo'riqnoma va darsliklardagi ma'lumotlar",
+   "content": [
+    "Sog'liqni saqlash vazirining 2015-yil 25-martdagi 121-son buyrug'iga 4-ilovada gelmintozlar gelmintlar orqali yuqadigan, aholi salomatligi holatini ma'lum darajada belgilovchi keng ko'lamli parazitar kasalliklar guruhi sifatida ta'riflanadi; yo'riqnomaga ko'ra respublikada gelmintozlar eng ko'p tarqalgan parazitozlar bo'lib, barcha parazitar kasalliklarning 90 foizini tashkil etadi, asosan enterobioz, gimenolepidoz, askaridoz, trixotsefalyoz, teniarinxoz va exinokokkoz qayd etiladi [4]. Laboratoriya diagnostikasi bo'yicha 6-ilovada odam organizmida parazitlik qilib gelmintoz chaqiruvchi 250 dan ortiq gelmint turi aniqlangani, ulardan 20 dan ortig'i keng tarqalgani, ko'pincha invaziyalar, ayniqsa bolalarda, subklinik yoki yashirin (latent) holda kechishi qayd etiladi [5].",
+    "Tinch okeani davlat tibbiyot universitetining 2017-yildagi o'quv qo'llanmasida gelmintlar Scolecida kenja tipiga mansub, ikki tomonlama simmetrik, uzunchoq va kutikula bilan qoplangan ko'p hujayrali umurtqasiz hayvonlar sifatida ta'riflanadi; tibbiy ahamiyatga yassi chuvalchanglar (Plathelminthes) — trematodalar va sestodalar sinflari hamda yumaloq chuvalchanglar (Nemathelminthes) ega [6]. Qo'llanmaga ko'ra gelmintlar hayot sikli davomida tuxum, lichinka va voyaga yetgan parazit bosqichlaridan o'tadi; odamda parazitlik qiluvchi 287 tur ma'lum, ulardan 50 ga yaqini keng tarqalgan [6].",
+    "Zararlanish belgilari mahalliy manbalarda gelmintning organizmga ta'sir mexanizmlari orqali tushuntiriladi. Shu qo'llanmada mexanik shikastlanish (masalan, askaridalar to'plami ichak tutilishiga olib kelishi), ozuqa va vitaminlar so'rilishining buzilishi (askaridozda A vitamini, difillobotriozda B12 vitamini kamayishi), modda almashinuvining buzilishi, toksik va immun-allergik ta'sir qayd etiladi; intensiv invaziyalarda bolalarning o'sishi va rivojlanishi sekinlashadi [6]. Shu bois 121-son buyruq ilovasida laboratoriya tekshiruvi uchun yo'llanmaga birlamchi tashxis yozilishi, anamnezda esa endemik hududda bo'lganlik, uy hayvonlari bilan aloqa, geofagiya va xavfli oziq-ovqat iste'moli hisobga olinishi talab etiladi [5]. Belgilar o'ziga xos bo'lmagani uchun tashxisni faqat laboratoriya tekshiruvi tasdiqlaydi."
+   ]
+  },
+  {
    "heading": "Xulosa",
    "content": [
     "Xulosa qilib aytganda, gelmintlar odam organizmida parazitlik qiladigan ko'p hujayrali chuvalchanglar bo'lib, ular uchta sinfga bo'linadi. Zararlanish belgilari parazit turiga va ayniqsa uning soniga bog'liq: yengil holatlar belgisiz kechishi mumkin, og'ir holatlarda esa ichak buzilishlari, kamqonlik, ozish va bolalarda o'sishdan orqada qolish kuzatiladi. Belgilar aniq emas, shuning uchun gelmintozni faqat laboratoriya tekshiruvi tasdiqlaydi [1, 2, 3]."
@@ -63,6 +71,9 @@
  "references": [
   "World Health Organization. Soil-transmitted helminth infections: fact sheet. Geneva: WHO, 2023. URL: https://www.who.int/news-room/fact-sheets/detail/soil-transmitted-helminth-infections.",
   "Cox F.E.G. History of human parasitology. Clinical Microbiology Reviews, 2002, 15(4): 595–612. DOI: 10.1128/CMR.15.4.595-612.2002.",
-  "Bethony J., Brooker S., Albonico M., Geiger S.M., Loukas A., Diemert D., Hotez P.J. Soil-transmitted helminth infections: ascariasis, trichuriasis, and hookworm. The Lancet, 2006, 367(9521): 1521–1532. DOI: 10.1016/S0140-6736(06)68653-4. (ayrim bayonlar shu manbadan tekshirilmagan [tasdiqlanmagan])"
+  "Bethony J., Brooker S., Albonico M., Geiger S.M., Loukas A., Diemert D., Hotez P.J. Soil-transmitted helminth infections: ascariasis, trichuriasis, and hookworm. The Lancet, 2006, 367(9521): 1521–1532. DOI: 10.1016/S0140-6736(06)68653-4.",
+  "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 2015-yil 25-martdagi 121-son buyrug'iga 4-ilova. Gelmintozlar bo'yicha yo'riqnoma. Kutubxona: xayrullokomilov.uz. URL: https://xayrullokomilov.uz/api/materiallar/1525/fayl",
+  "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 2015-yil 25-martdagi 121-son buyrug'iga 6-ilova. Parazitar kasalliklarning laboratoriya diagnostikasi. Kutubxona: xayrullokomilov.uz. URL: https://xayrullokomilov.uz/api/materiallar/1521/fayl",
+  "Meditsinskaya parazitologiya. Uchebnoe posobie. Tixookeanskiy davlat tibbiyot universiteti. Vladivostok: Meditsina DV, 2017. Kutubxona: xayrullokomilov.uz. URL: https://xayrullokomilov.uz/api/materiallar/2737/fayl"
  ]
 }

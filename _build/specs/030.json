@@ -5,7 +5,7 @@
   {
    "heading": "Kirish",
    "content": [
-    "Qalin tomchi bezgak tashxisining asosiy preparati hisoblanadi. Uning vazifasi — oz miqdordagi parazitni ham topish: qon ko'p miqdorda bir joyga to'planib, eritrotsitlar bo'yash vaqtida parchalanadi va parazitlar yaqqol ko'rinadi. Shu sababli qalin tomchini to'g'ri tayyorlash sifatli tashxis uchun hal qiluvchi. Esseda Jahon sog'liqni saqlash tashkilotining bezgak mikroskopiyasi bo'yicha standart protsedurasi (MM-SOP-05A) asosida qalin tomchi tayyorlash tartibi, uning bosqichlari, xatolari va xavfsizlik qoidalari bayon qilinadi [1]."
+    "Qalin tomchi bezgak tashxisining asosiy preparati hisoblanadi. Uning vazifasi — oz miqdordagi parazitni ham topish: qon ko'p miqdorda bir joyga to'planib, eritrotsitlar bo'yash vaqtida parchalanadi va parazitlar yaqqol ko'rinadi. Shu sababli qalin tomchini to'g'ri tayyorlash sifatli tashxis uchun hal qiluvchi."
    ]
   },
   {
@@ -39,12 +39,6 @@
    ]
   },
   {
-   "heading": "Bo'yash bilan bog'liq eslatma",
-   "content": [
-    "Qalin tomchi odatda fiksatsiya qilinmaydi: faqat yupqa surtma metanol bilan fiksatsiya qilinadi va qalin tomchi metanol bilan aloqa qilmasligi shart, aks holda u fiksatsiya bo'lib, gemoliz bo'lmaydi va parazitlar ko'rinmay qoladi [2]. Shu bois quritishda yupqa surtma pastga qaratib vertikal qo'yilmaydi, chunki metanol bug'i qalin tomchini fiksatsiya qilib qo'yishi mumkin [2]. Bo'yash Giemza eritmasi bilan o'tkaziladi: tezkor usulda 10 foizli eritmada 8–10 daqiqa, sekin usulda 3 foizli eritmada 45–60 daqiqa [2]."
-   ]
-  },
-  {
    "heading": "Odatiy xatolar",
    "content": [
     "Qalin tomchida eng ko'p uchraydigan xatolar: juda qalin tomchi (bo'yalganda parchalanib tushib ketadi yoki parazitlar ko'rinmaydi), juda yupqa tomchi (parazitlar kam topiladi), buyum oynasining iflos bo'lishi, qonni aralashtirib yuborish, preparatni qurimay turib bo'yash, changlanish va pashshalar. Har bir xato natijaning sifatini buzadi. Shuning uchun tayyorlangan preparat birinchi navbatda ko'zdan kechiriladi va yaroqsiz bo'lsa, qayta tayyorlanadi."
@@ -63,6 +57,14 @@
    ]
   },
   {
+   "heading": "Milliy standart operatsion muolajada qalin tomchi tayyorlash",
+   "content": [
+    "Respublika DSENM parazitologiya laboratoriyasining M-SOM-05 muolajasi barmoqdan olingan qondan qalin tomchi tayyorlash tartibini batafsil belgilaydi. Ish uchun quyidagilar talab qilinadi: o'lchami 25×75 mm, chetlari silliqlangan, tamg'alash uchun maxsus joyi bo'lgan toza buyum oynalari; 70 foizli etil spirti; har bir bemor uchun bir martalik skarifikator; toza quruq paxta; himoya qo'lqoplari; ishlatilgan skarifikatorlar uchun konteyner; surtmalarni quritish uchun ko'prikcha yoki konteyner; bezgakka tekshiruvni ro'yxatga olish jurnali va oddiy qalam [4]. Qon olish uchun uchinchi yoki to'rtinchi barmoq tanlanadi, yosh bolalarda oyoqning tovon qismidan foydalaniladi; barmoq 70 foizli spirtli paxta bilan yog' va kirdan tozalanadi, bir martalik skarifikator bilan teshiladi va birinchi tomchi quruq paxta bilan artib tashlanadi [4]. Bir bemordan uchtadan qalin tomchi va yupqa surtma preparatlari tayyorlanadi [4].",
+    "Muolajaga ko'ra, buyum oynasiga diametri 5 mm bo'lgan ikki tomchi tomiziladi va toza oynaning uchi bilan 1,0–1,2 sm diametrgacha yoyiladi; tomchilar o'rtasiga tamg'alash uchun chiziq tortiladi [4]. Tomchining qalinligi shunday bo'lishi kerakki, qurigandan keyin u orqali gazeta yozuvlari ko'rinsin [4]. Qalin tomchi fiksatsiya qilinmaydi — bu talab muolajada alohida ta'kidlangan [4], chunki bo'yash vaqtida eritrotsitlar gemolizlanib, parazitlar leykotsitlar fonida ko'rinishi kerak. Bo'yash bo'yicha M-SOM-07 muolajasida ham qalin tomchi metanol bilan fiksatsiya qilinishiga yo'l qo'yilmasligi qayd etiladi [5].",
+    "Tayyorlangan preparat darhol tamg'alanadi: M-SOM-06 muolajasiga ko'ra oddiy qora qalam bilan laboratoriya kodi, preparat raqami, bemorning familiyasi va ismi, jinsi, yoshi va qon olingan sana yoziladi, ma'lumotlar ro'yxatga olish jurnali bilan solishtiriladi [6]. 121-son buyruq ilovasiga ko'ra bezgakka shubha qilingan barcha bemorlardan qalin tomchi olinib, o'sha kuniyoq laboratoriyaga yuboriladi; sifatsiz preparatlar ular olingan bo'limga qayta olish uchun qaytariladi [7]."
+   ]
+  },
+  {
    "heading": "Xulosa",
    "content": [
     "Qalin tomchi toza oynada, barmoq uchidan olingan 2–3 tomchi qonni taxminan 1 sm doira shaklida aylantirib yoyish va gorizontal quritish yo'li bilan tayyorlanadi. U yupqa surtma bilan birga olinadi va bezgak parazitini topishda eng sezgir usul bo'lib xizmat qiladi. Barcha bosqichlar Jahon sog'liqni saqlash tashkilotining MM-SOP-05A va 07A protsedurasiga muvofiq bajarilishi kerak [1, 2, 3]."
@@ -72,6 +74,10 @@
  "references": [
   "World Health Organization. Malaria Microscopy Standard Operating Procedure MM-SOP-05A: Collection of finger-prick blood and preparation of thick and thin blood films. URL: https://www.who.int/docs/default-source/wpro---documents/toolkit/malaria-sop/gmp-sop-05a.pdf",
   "World Health Organization. Malaria Microscopy Standard Operating Procedure MM-SOP-07A: Giemsa staining of malaria blood films. URL: https://www.who.int/docs/default-source/wpro---documents/toolkit/malaria-sop/gmp-sop-07a.pdf",
-  "World Health Organization. Malaria Microscopy Standard Operating Procedure MM-SOP-08: Microscopy examination of thick and thin blood films for identification of malaria parasites. URL: https://who.int/docs/default-source/wpro---documents/toolkit/malaria-sop/gmp-sop-08-revised.pdf"
+  "World Health Organization. Malaria Microscopy Standard Operating Procedure MM-SOP-08: Microscopy examination of thick and thin blood films for identification of malaria parasites. URL: https://who.int/docs/default-source/wpro---documents/toolkit/malaria-sop/gmp-sop-08-revised.pdf",
+  "Qalin tomchi va yupqa surtma qon preparatlarini tayyorlash. Standart operatsion protsedura. Kutubxona: xayrullokomilov.uz. URL: https://xayrullokomilov.uz/api/materiallar/2109/fayl",
+  "Bezgakka qon preparatlarini Romanovskiy–Gimza bo'yog'i bilan bo'yash. Standart operatsion protsedura. Kutubxona: xayrullokomilov.uz. URL: https://xayrullokomilov.uz/api/materiallar/2105/fayl",
+  "Bezgakka olingan qon preparatlarini tamg'alash. Standart operatsion protsedura. Kutubxona: xayrullokomilov.uz. URL: https://xayrullokomilov.uz/api/materiallar/2106/fayl",
+  "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 2015-yil 25-martdagi 121-son buyrug'iga 1-ilova. Aholi o'rtasida bezgak kasalligining profilaktikasi va chetdan kirib kelishini oldini olish chora-tadbirlari to'g'risidagi yo'riqnoma. Kutubxona: xayrullokomilov.uz. URL: https://xayrullokomilov.uz/api/materiallar/1523/fayl"
  ]
 }

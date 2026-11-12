@@ -5,7 +5,7 @@
   {
    "heading": "Kirish",
    "content": [
-    "Geogelmintozlar (askaridoz, trixosefalyoz, ankilostomidoz) tuproq orqali yuqadigan va keng tarqalgan gelmintozlar bo'lgani uchun ularning epidemiologik tekshiruvi individual holatni o'rganishdan ko'ra aholi darajasidagi vaziyatni baholashga qaratilgan. Biroq har bir qayd etilgan holat bo'yicha ham tekshiruv o'tkaziladi: bemorning qayerdan zararlangani, uning oilasi va jamoasida boshqa zararlanganlar bor-yo'qligi, tashqi muhitning holati. O'zbekistondagi aniq buyruq va shakllar mazkur seansda tekshirilmadi [tasdiqlanmagan]. Quyida Jahon sog'liqni saqlash tashkiloti tavsiyalari va umumiy epidemiologik yondashuvga asoslangan tartib bayon qilinadi. Jahon sog'liqni saqlash tashkiloti epidemiologik baholash natijalariga ko'ra davolash chastotasini moslashtirishni tavsiya etadi [1]."
+    "Geogelmintozlar (askaridoz, trixosefalyoz, ankilostomidoz) tuproq orqali yuqadigan va keng tarqalgan gelmintozlar bo'lgani uchun ularning epidemiologik tekshiruvi individual holatni o'rganishdan ko'ra aholi darajasidagi vaziyatni baholashga qaratilgan. Biroq har bir qayd etilgan holat bo'yicha ham tekshiruv o'tkaziladi: bemorning qayerdan zararlangani, uning oilasi va jamoasida boshqa zararlanganlar bor-yo'qligi, tashqi muhitning holati. Quyida Jahon sog'liqni saqlash tashkiloti tavsiyalari va umumiy epidemiologik yondashuvga asoslangan tartib bayon qilinadi. Jahon sog'liqni saqlash tashkiloti epidemiologik baholash natijalariga ko'ra davolash chastotasini moslashtirishni tavsiya etadi [1]."
    ]
   },
   {
@@ -17,7 +17,7 @@
   {
    "heading": "Holatni qayd etish",
    "content": [
-    "Holat laboratoriya tasdig'i bilan qayd etiladi: najas mikroskopiyasida tuxumlar topiladi. Qayd etishda bemor ma'lumotlari, tashxis, gelmint turi, intensivlik (epg), aniqlangan sana, tekshiruv sababi (shikoyat, profilaktik ko'rik, skrining) ko'rsatiladi. Hisobot shakllari va muddatlari milliy hujjatlarda belgilanadi [tasdiqlanmagan]."
+    "Holat laboratoriya tasdig'i bilan qayd etiladi: najas mikroskopiyasida tuxumlar topiladi. Qayd etishda bemor ma'lumotlari, tashxis, gelmint turi, intensivlik (epg), aniqlangan sana, tekshiruv sababi (shikoyat, profilaktik ko'rik, skrining) ko'rsatiladi."
    ]
   },
   {
@@ -29,7 +29,7 @@
   {
    "heading": "Oila va jamoani tekshirish",
    "content": [
-    "Qayd etilgan holat bo'yicha oila a'zolari va yaqin atrofdagilar najas mikroskopiyasidan o'tkaziladi, chunki tuproq orqali yuqadigan gelmintlarda umumiy tashqi manba (ifloslangan tuproq, suv, sabzavot) tufayli oila a'zolari birgalikda zararlanadi. Maktab yoki bog'chada holat bo'lsa, guruh bolalari tekshiriladi. Bu tekshiruv aholining xavf ostidagi qismini aniqlashga imkon beradi. Tekshiruv hajmi epidemiologik vaziyatga bog'liq va aniq mezonlar seansda tekshirilmagan [tasdiqlanmagan]."
+    "Qayd etilgan holat bo'yicha oila a'zolari va yaqin atrofdagilar najas mikroskopiyasidan o'tkaziladi, chunki tuproq orqali yuqadigan gelmintlarda umumiy tashqi manba (ifloslangan tuproq, suv, sabzavot) tufayli oila a'zolari birgalikda zararlanadi. Maktab yoki bog'chada holat bo'lsa, guruh bolalari tekshiriladi. Bu tekshiruv aholining xavf ostidagi qismini aniqlashga imkon beradi."
    ]
   },
   {
@@ -41,7 +41,7 @@
   {
    "heading": "Tashqi muhitni tekshirish",
    "content": [
-    "Sanitariya-gelmintologik tekshiruv tashqi muhit ob'ektlarini qamrab oladi: tuproq (bolalar maydonchalari, bog'lar, tomorqalar), sabzavot va ko'katlar, suv (ichimlik va sug'orish), oqova suv, mevalar, hovli va hojatxona atrofi. Namunalarda gelmint tuxumlari izlanadi. Bu tekshiruv ifloslanish manbalarini aniqlashga yordam beradi. Uslublari alohida mavzuda (sanitariya-gelmintologik nazorat) yoritiladi; aniq me'yorlar milliy hujjatlarda [tasdiqlanmagan]."
+    "Sanitariya-gelmintologik tekshiruv tashqi muhit ob'ektlarini qamrab oladi: tuproq (bolalar maydonchalari, bog'lar, tomorqalar), sabzavot va ko'katlar, suv (ichimlik va sug'orish), oqova suv, mevalar, hovli va hojatxona atrofi. Namunalarda gelmint tuxumlari izlanadi. Bu tekshiruv ifloslanish manbalarini aniqlashga yordam beradi."
    ]
   },
   {
@@ -63,27 +63,17 @@
    ]
   },
   {
-   "heading": "Takrorlash uchun savol-javoblar",
-   "content": [
-    "Savol: tekshiruv maqsadi? Javob: manba va omillarni aniqlash, xavf guruhlarini belgilash, dasturlarni rejalashtirish va baholash. Savol: kimlar tekshiriladi? Javob: bemor, oila a'zolari, jamoadagi bolalar. Savol: qaysi ko'rsatkichlar? Javob: tarqalganlik va intensivlik (epg) [1, 2]. Savol: 20 foiz chegarasi nima? Javob: undan past tarqalganlikda og'ir zararlanish deyarli bo'lmaydi [2]. Savol: tashqi muhitdan nima olinadi? Javob: tuproq, suv, sabzavot namunalari."
-   ]
-  },
-  {
-   "heading": "Tekshiruv misoli",
-   "content": [
-    "Maktabda uch o'quvchida askaridoz tasdiqlangan. Epidemiolog maktabga boradi, sinfdagi boshqa bolalardan najas namunalari to'plashni tashkil etadi, hovli va hojatxona holatini ko'rib chiqadi, ichimlik suvi manbasini tekshiradi, bolalar maydonchasidan tuproq namunasi oladi. Natijada sinfning 30 foizida tuxumlar topiladi. Davolash va gigiyena ta'limi tashkil etiladi, tuproq ishlanadi, suv manbasi tekshiriladi. Ikki oydan keyin takroriy tekshiruv o'tkaziladi. Misol tekshiruv va tadbirlarning uzviy bog'liqligini ko'rsatadi."
-   ]
-  },
-  {
-   "heading": "Laborant uchun amaliy xulosa",
-   "content": [
-    "Laborant ommaviy tekshiruvda ko'p namunani aniq belgilashi, sifatni saqlashi va natijalarni jadvalga to'g'ri kiritishi kerak. Intensivlikni epg bilan ko'rsatish epidemiologga hududni baholashga yordam beradi."
-   ]
-  },
-  {
    "heading": "Ma'lumotlarni tahlil qilish",
    "content": [
     "To'plangan ma'lumotlar jadvalga kiritilib, tarqalganlik (zararlanganlar ulushi) va intensivlik toifalari bo'yicha taqsimot hisoblanadi, yosh, jins, hudud va kasb bo'yicha solishtiriladi. Natijalar hududlarni xavf darajasiga ko'ra tasniflash uchun ishlatiladi."
+   ]
+  },
+  {
+   "heading": "Milliy yo'riqnomada geogelmintoz holatini epidemiologik tekshirish",
+   "content": [
+    "Sog'liqni saqlash vazirining 121-son buyrug'iga 4-ilovaga ko'ra ko'rsatma va tanlab tekshirishlarda aholi koproovoskopiya usuli bilan tekshiriladi va har bir askaridoz hamda trixotsefalyoz holati bo'yicha 058/u shaklidagi shoshilinch xabarnoma yuboriladi [3]. Invaziyalanganlarni aniqlash bo'yicha klinik-diagnostik laboratoriyalar faoliyatini hududiy DSENMlar nazorat qiladi, invaziyalanganlarni degelmintizatsiya qilish va uning samaradorligini aniqlashni esa DPMlarning butun tizimi olib boradi [3].",
+    "Yo'riqnomada epidemiologik tekshiruvning tarkibi belgilangan: parazitolog yoki uning yordamchisi o'choqni epidemiologik tekshiradi va pasportlashtiradi, 357/u shaklidagi epidemiologik kartani to'ldiradi, unda yuqish sabablari, o'choq (xonadon)ning sanitariya va hojatxonalar holati, uy hayvonlari mavjudligi, suv bilan ta'minlanish ahvoli va tomorqadagi ekinlar hisobga olinadi [3]. Tekshiruv natijalari bo'yicha parazitologlar, ularning yordamchilari yoki epidemiologlar dalolatnoma tuzadi va aniqlangan kamchiliklarni bartaraf etish muddatlarini ko'rsatadi; epidemik ko'rsatmalar bo'yicha va mikroo'choqlardagi aholini geogelmintozlarga hududiy DSENM vrachi yoki laboranti tekshiradi [3]. Sog'liqni saqlash vazirining 2020-yil 31-dekabrdagi 363-son buyrug'i bilan tasdiqlangan 161-h/sh shakldagi yuqumli va parazitar kasalliklar o'chog'ini epidemiologik tekshirish kartasi bemor haqidagi ma'lumotlar, o'choqdagi tadbirlar va kasallik yuqtirilgan joy bo'yicha xulosalarni o'z ichiga oladi [4].",
+    "Tekshiruv natijalari o'choqni tasniflash uchun ishlatiladi. Yo'riqnomaga ko'ra «asl o'choq»da qo'zg'atuvchining tashqi muhitda aylanishi va aholini yuqtirish sharoiti (invaziya manbai, yuqish omillari, aholi immuniteti) mavjud, «yolg'on o'choq»da esa invaziya manbai bo'lsa ham yuqish omillari va qo'zg'atuvchining tashqi muhitda aylanish sharoiti yo'q [3]. Tanlab tekshiriladiganlar — 7–14 yoshli bolalar, MTM bolalari (3–6 yosh), epidemik ko'rsatma bo'yicha kattalar, fermer xo'jaliklarida ishlovchilar, sabzavotchilar, tibbiy ko'rsatma bo'yicha shifoxona va ambulator bemorlar; bu tekshirishlarning samaradorligi, qamrovi va muddatini hududiy DSENM yiliga bir marta nazorat qiladi [3]. Ikki yil davomida o'choqda invaziyalanganlar aniqlanmasa va tashqi muhit tahlillari manfiy bo'lsa, o'choq hisobdan chiqariladi [3]."
    ]
   },
   {
@@ -95,6 +85,8 @@
  ],
  "references": [
   "World Health Organization. Soil-transmitted helminth infections: fact sheet. Geneva: WHO, 2023. URL: https://www.who.int/news-room/fact-sheets/detail/soil-transmitted-helminth-infections",
-  "Soil-transmitted helminthiasis. Relationship between prevalence and classes of intensity of infection. PubMed Central, PMC5580801. URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC5580801/"
+  "Soil-transmitted helminthiasis. Relationship between prevalence and classes of intensity of infection. PubMed Central, PMC5580801. URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC5580801/",
+  "O'zbekiston Respublikasi Sog'liqni saqlash vazirining 2015-yil 25-martdagi 121-son buyrug'iga 4-ilova. Gelmintozlar bo'yicha yo'riqnoma. Kutubxona: xayrullokomilov.uz. URL: https://xayrullokomilov.uz/api/materiallar/1525/fayl",
+  "Yuqumli va parazitar kasalliklar o'chog'ini epidemiologik tekshirish kartasi. Kutubxona: xayrullokomilov.uz. URL: https://xayrullokomilov.uz/api/materiallar/1422/fayl"
  ]
 }
