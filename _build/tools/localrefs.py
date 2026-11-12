@@ -70,3 +70,5 @@ R[404]="O'zbekiston Respublikasi Sog'liqni saqlash vazirining 2015-yil 29-yanvar
 R[1581]="Shokirov M.K. Gijja kasalligi klinikasi, diagnostikasi, davosi va profilaktikasi hamda Farg'ona viloyatida gijja kasalligi bo'yicha o'tkazilgan chora-tadbirlar to'g'risida ma'lumot. Farg'ona viloyati DSENM, mart 2015. Taqdimot. Kutubxona: xayrullokomilov.uz. URL: "+U%1581
 R[1591]="Trixotsefalyoz u detey. O'quv taqdimoti. Kutubxona: xayrullokomilov.uz. URL: "+U%1591
 R[1592]="Trixotsefalyoz. O'quv taqdimoti. Kutubxona: xayrullokomilov.uz. URL: "+U%1592
+R[1341]="Baliq va baliq mahsulotlarini qayta ishlash va realizatsiya qilish korxonalari xodimlari uchun sanitariya minimumi o'quv materiali. Kutubxona: xayrullokomilov.uz. URL: "+U%1341
+R[1535]="Dalton J.P. (tahr.) Fassiolyoz. Monografiya (o'zbekcha tarjima). Kutubxona: xayrullokomilov.uz. URL: "+U%1535
