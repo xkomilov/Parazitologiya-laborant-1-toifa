@@ -67,3 +67,6 @@ R[2737]="Meditsinskaya parazitologiya. Uchebnoe posobie. Tixookeanskiy davlat ti
 R[2736]="Pavlovich S.A., Andreev V.P. Meditsinskaya parazitologiya s entomologiey. Uchebnoe posobie. Minsk. Kutubxona: xayrullokomilov.uz. URL: "+U%2736
 R[1556]="Xudoynazarov O., Abduxoliqova M. Meditsina parazitologiyasi va epidemiologiya asoslari. Ishchi o'quv dasturi (3720301 — Tibbiy profilaktika ishi feldsheri). Jizzax tibbiyot kolleji, 2011. Kutubxona: xayrullokomilov.uz. URL: "+U%1556
 R[404]="O'zbekiston Respublikasi Sog'liqni saqlash vazirining 2015-yil 29-yanvardagi 43-son buyrug'i «Vazirlar Mahkamasining 2015-yil 23-yanvardagi 9-son «O'zbekiston Respublikasida bolalarda gelmintozlarning oldini olish va davolash chora-tadbirlari to'g'risida (2015–2018-yillar)» qarori ijrosini ta'minlash to'g'risida». Kutubxona: xayrullokomilov.uz. URL: "+U%404
+R[1581]="Shokirov M.K. Gijja kasalligi klinikasi, diagnostikasi, davosi va profilaktikasi hamda Farg'ona viloyatida gijja kasalligi bo'yicha o'tkazilgan chora-tadbirlar to'g'risida ma'lumot. Farg'ona viloyati DSENM, mart 2015. Taqdimot. Kutubxona: xayrullokomilov.uz. URL: "+U%1581
+R[1591]="Trixotsefalyoz u detey. O'quv taqdimoti. Kutubxona: xayrullokomilov.uz. URL: "+U%1591
+R[1592]="Trixotsefalyoz. O'quv taqdimoti. Kutubxona: xayrullokomilov.uz. URL: "+U%1592
