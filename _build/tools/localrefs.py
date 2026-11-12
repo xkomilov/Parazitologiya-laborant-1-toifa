@@ -62,3 +62,4 @@ R[1597]="Tyo I.L. O'zbekiston Respublikasida leyshmaniozlar ustidan epidemiologi
 R[1593]="O'zbekistonning leyshmanioz o'choqlarida uchraydigan moskitlar va ularga qarshi kurash usullari. O'quv taqdimoti. Kutubxona: xayrullokomilov.uz. URL: "+U%1593
 R[1600]="Standarty diagnostiki i lecheniya parazitarnyx bolezney dlya vsex urovney (SSV 2016-yil 5-apreldagi 166-son buyrug'i ilovasi, ruscha matn). Kutubxona: xayrullokomilov.uz. URL: "+U%1600
 R[1549]="Markaziy Osiyo moskitlari aniqlagichi (Opredelitel' moskitov (Diptera, Psychodidae, Phlebotominae) Tsentral'noy Azii). JSST. Kutubxona: xayrullokomilov.uz. URL: "+U%1549
+R[1358]="Shokirov M.K. Kanali qaytalama tif kasalligi etiologiyasi, patogenezi, klinikasi, diagnostikasi, davosi va profilaktikasi hamda Farg'ona viloyatida ushbu kasallikka qarshi o'tkazilgan chora-tadbirlar to'g'risida ma'lumot. Farg'ona viloyati DSENM, aprel 2014. Taqdimot. Kutubxona: xayrullokomilov.uz. URL: "+U%1358
